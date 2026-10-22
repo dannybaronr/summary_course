@@ -1,83 +1,59 @@
 # Lección 13 — Concisión sin pérdida de información
-**Nivel:** 2 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Reducir extensión manteniendo las relaciones y condiciones esenciales.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 2 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Reducir extensión manteniendo las relaciones y condiciones esenciales.
-- **Medible:** La versión final es más breve y conserva el mensaje, las condiciones y el grado de certeza necesarios.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Al terminar, podrás usar la habilidad para construir una síntesis fiel, justificar decisiones y revisar el resultado contra la fuente.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+## 2. Concepto desde cero
+Concisión es reducir palabras sin perder los elementos necesarios para comprender la afirmación: quién, qué ocurrió, bajo qué condiciones y con qué certeza.
 
-## 4. Explicación desde cero
-Concisión significa usar solo las palabras necesarias para cumplir la función. No es telegráfico ni elimina automáticamente contexto. Al reducir, conserva quién hizo qué, bajo qué condiciones, qué se observó y con qué grado de certeza.
+## 3. Ejemplo trabajado
+«En una prueba de 20 personas se observó una mejora pequeña» no equivale a «se demostró una gran mejora». La brevedad no permite borrar tamaño de muestra ni magnitud.
 
-### Ejemplo trabajado
-«La prueba, realizada con 20 participantes, encontró una mejora pequeña» no equivale a «la prueba demostró una gran mejora». La cifra y el alcance limitan la afirmación.
+**Ruta de razonamiento:** nombrá la relación que hay entre las ideas, comprobá que la fuente la respalde y evitá que la redacción convierta una posibilidad en certeza.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+## 4. Práctica guiada
+Reducí a una o dos oraciones: «El piloto duró seis semanas. Participaron dos equipos de una empresa. El tiempo medio de respuesta bajó un 8 %. No se midió la satisfacción de los clientes y el resultado puede depender del tipo de consulta». Conservá los límites.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** concisión sin pérdida de información.
-- **Fuente de práctica:** Escribir versiones sucesivas y comparar no solo la longitud, sino la información que se perdió.
-- **Producto esperado:** Un párrafo de 120–180 palabras con una condición o limitación importante.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+Marcá qué palabras del texto original sostienen cada relación o conclusión. Si no hay evidencia suficiente, expresá el límite en la respuesta.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «concisión sin pérdida de información»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+## 5. Práctica independiente
+Elegí una fuente breve de una clase, noticia, manual, charla o conversación. Aplicá esta habilidad, identifica la fuente y adjuntá una justificación de una decisión difícil. Incluí al menos una limitación si el texto no permite una conclusión completa.
 
-## 7. Actividad práctica
-**Consigna:** Un párrafo de 120–180 palabras con una condición o limitación importante.
+## 6. Clave de autocorrección
+Una síntesis correcta conserva duración, alcance del piloto, resultado de 8 % y ausencia de medición de satisfacción; no generaliza a todas las empresas.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+Se aceptan respuestas alternativas si conservan los hechos, las relaciones y el grado de certeza del original.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** La versión final es más breve y conserva el mensaje, las condiciones y el grado de certeza necesarios.
+## 7. Criterios de logro
+- Fidelidad: no inventa ni exagera relaciones.
+- Estructura: la relación entre ideas se entiende.
+- Justificación: las decisiones se vinculan con evidencia de la fuente.
+- Precisión: las dudas o límites se expresan explícitamente.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+**Criterio específico:** La versión es más breve, pero conserva mensaje, condiciones y grado de certeza.
 
-## 9. Errores frecuentes
-- El resumen de 20 palabras puede ser adecuado para un propósito y no para otro.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+Si el producto no cumple alguno, registrá «requiere refuerzo» y repetí con un texto más corto. No se considera logrado por haber leído la explicación.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder reducir extensión manteniendo las relaciones y condiciones esenciales.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+## 8. Errores frecuentes
+- Usar conectores como adorno y cambiar la relación lógica.
+- Presentar correlación como causa.
+- Confundir premisa con conclusión.
+- Omitir una limitación que cambia el alcance.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
-- **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
+## 9. Preguntas para tutoría
+1. ¿Qué fragmento respalda esa relación?
+2. ¿Qué otra explicación podría encajar con los datos?
+3. ¿Qué cambia si se elimina esta condición?
+4. ¿Qué evidencia faltaría para una conclusión más fuerte?
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+## 10. Registro de práctica
+- Fuente:
+- Producto:
+- Decisión justificada:
+- Límite o duda:
+- Corrección después de verificar:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
+
+Actualizar PROGRESO.md solo después de observar el producto real.
