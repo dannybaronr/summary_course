@@ -1,92 +1,82 @@
-# Plan de estudios
+# Plan de estudios completo
 
-Duración orientativa inicial: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es una planificación, no una garantía de alcanzar nivel experto en una fecha fija. El avance depende del dominio demostrado.
+Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es una estimación de organización, no una promesa de dominio experto. Se repiten los niveles cuando haga falta.
 
-## Nivel 0 — Aprender a comprender
-**Semanas 1–2**
-1. ¿Qué es la información y qué significa comprender?
-2. ¿Qué es una idea? Oración, afirmación y mensaje.
-3. Tema y mensaje: cómo distinguirlos.
+## Nivel 0 — Aprender a comprender (lecciones 1–6)
+1. ¿Qué es resumir? Diagnóstico con texto breve.
+2. Qué es una idea: oración, afirmación y mensaje.
+3. Tema y mensaje central.
 4. Cómo se construye un párrafo.
 5. Idea principal e ideas secundarias.
-6. Ejemplos, explicaciones y detalles.
-**Evaluación:** explicar un texto breve con palabras propias y distinguir tema de idea principal.
+6. Ejemplos, explicaciones, detalles y excepciones.
+**Fuentes:** párrafos cotidianos, una parábola breve, un texto informativo.
 
-## Nivel 1 — Reconocer lo importante
-**Semanas 3–4**
+## Nivel 1 — Seleccionar y reducir (7–12)
 7. Qué significa que una idea sea importante.
 8. Qué se puede eliminar y qué no.
-9. Detectar repeticiones y redundancias.
+9. Repetición y redundancia.
 10. Reformular sin copiar ni cambiar el sentido.
-11. Unir ideas relacionadas.
-12. Redactar el primer resumen.
-**Evaluación:** producir un resumen breve y justificar decisiones de inclusión y exclusión.
+11. Agrupar ideas relacionadas.
+12. Redactar un resumen breve y verificarlo.
+**Fuentes:** noticias, reseñas y resúmenes de libros.
 
-## Nivel 2 — Construir resúmenes básicos
-**Final de semanas 3–4, con práctica continua**
-- Condensación de frases y párrafos.
-- Cohesión y claridad.
-- Título, idea central y desarrollo.
-- Comprobación contra la fuente.
-**Evaluación:** resumir un texto nuevo sin ayuda y corregirlo a partir de la fuente.
+## Nivel 2 — Construir resúmenes funcionales (13–18)
+13. Concisión sin pérdida de información.
+14. Cohesión y conectores.
+15. Orden cronológico y orden lógico.
+16. Causa, consecuencia y correlación.
+17. Problema, respuesta, resultado y limitaciones.
+18. Resumir un argumento con premisas y conclusión.
+**Fuentes:** conversaciones, argumentos filosóficos y textos explicativos.
 
-## Nivel 3 — Reconstruir razonamientos
-**Semanas 5–6**
-13. Causa y consecuencia.
-14. Problema, solución y resultado.
-15. Afirmaciones, argumentos y evidencias.
-16. Definiciones, ejemplos y excepciones.
-17. Esquemas y mapas de relaciones.
-18. Resumir explicaciones complejas.
-**Evaluación:** reconstruir el razonamiento y preservar las condiciones importantes.
-
-## Nivel 4 — Adaptarse a distintos tipos de fuente
-**Semanas 7–9**
+## Nivel 3 — Interpretar la estructura de la fuente (19–24)
 19. Artículos y textos académicos.
-20. Libros completos y capítulos.
+20. Libros y capítulos.
 21. Cursos, clases y tutorías.
-22. Conferencias, charlas y exposiciones.
-23. Conversaciones y reuniones: atribución, acuerdos y pendientes.
-24. Novelas y relatos: trama, personajes, conflicto y transformación.
-25. Reseñas y críticas: valoración, criterios y argumentos.
-**Evaluación:** resumir tres fuentes diferentes con estrategias justificadas.
+22. Conferencias, charlas y oratoria.
+23. Conversaciones, reuniones y entrevistas.
+24. Novelas, relatos y parábolas.
+**Fuentes:** capítulos de libros, una clase grabada, un discurso y un pasaje narrativo bíblico.
 
-## Nivel 5 — Sintetizar varias fuentes
-**Semanas 10–12**
-26. Fuentes sin estructura evidente.
-27. Comparar fuentes que coinciden.
-28. Detectar contradicciones y desacuerdos.
-29. Distinguir hechos, opiniones e inferencias.
-30. Preservar incertidumbre, excepciones y matices.
-31. Crear una síntesis integrada y verificable.
-**Evaluación:** síntesis comparativa que atribuya correctamente las afirmaciones.
+## Nivel 4 — Cambiar de formato sin perder fidelidad (25–30)
+25. Notas de estudio y fichas de lectura.
+26. Resumen ejecutivo para una decisión.
+27. Explicación para una persona principiante.
+28. Reseñas: separar contenido y valoración.
+29. Resumen técnico de una fuente especializada.
+30. Resumen oral y exposición de tres minutos.
+**Fuentes:** documentación técnica, reseñas y una charla divulgativa.
 
-## Nivel 6 — Desarrollar criterio experto
-**Semanas 13–14**
-32. Adaptar el resumen al lector y al propósito.
-33. Resumen ejecutivo, técnico y de estudio.
-34. Elegir extensión y nivel de detalle.
-35. Verificar fidelidad con el original.
-36. Detectar omisiones críticas, distorsiones y errores sutiles.
-**Evaluación:** crear dos o más versiones de una fuente y explicar por qué difieren.
+## Nivel 5 — Sintetizar varias fuentes (31–35)
+31. Comparar fuentes que coinciden.
+32. Identificar desacuerdos y contradicciones.
+33. Separar hecho, opinión, inferencia y valoración.
+34. Atribuir afirmaciones y registrar su procedencia.
+35. Elaborar una síntesis que conserve incertidumbre y matices.
+**Fuentes:** dos traducciones o comentarios bíblicos, dos artículos sobre un tema, documentación técnica y opiniones divergentes.
 
-## Nivel 7 — Enseñar a resumir
-**Semanas 15–16**
-37. Diagnosticar por qué una persona resume mal.
-38. Formular preguntas socráticas.
-39. Diseñar ejercicios graduados.
-40. Dar retroalimentación específica y accionable.
-41. Evaluar con criterios consistentes.
-42. Enseñar una sesión completa.
-**Proyecto final:** enseñar a un principiante, evaluar una primera respuesta, guiar una revisión y comprobar el progreso.
+## Nivel 6 — Juicio experto y verificación (36–39)
+36. Adaptar la síntesis al lector, propósito y riesgo.
+37. Detectar omisiones críticas y distorsiones.
+38. Verificar afirmaciones contra la fuente.
+39. Evaluar límites, sesgos y calidad de evidencia.
+**Caso integrador:** transparencia, interpretabilidad y explicabilidad en IA. La formulación de una persona o de un documento no se asumirá como definición universal: se contrastará con marcos técnicos como NIST.
 
-## Estructura de cada sesión
-1. Recuperación breve de lo anterior.
-2. Explicación y ejemplo modelado.
-3. Práctica guiada.
-4. Práctica independiente.
-5. Retroalimentación y corrección.
-6. Registro del dominio y próxima práctica.
+## Nivel 7 — Enseñar a resumir (40–42)
+40. Diagnosticar dificultades de un aprendiz.
+41. Hacer preguntas socráticas y dar retroalimentación útil.
+42. Diseñar y enseñar una sesión completa.
+**Proyecto final:** enseñar a otra persona a resumir una fuente desconocida, evaluar su primer intento, guiar una revisión y demostrar qué mejoró.
 
-## Regla para avanzar
-No avanzar por calendario si una competencia esencial aún no se demuestra. Reexplicar, cambiar el ejemplo y repetir con un ejercicio nuevo.
+## Distribución semanal sugerida
+- Día 1: explicación y ejemplo.
+- Día 2: práctica guiada.
+- Día 3: práctica independiente.
+- Día 4: fuente de otro tipo o dificultad.
+- Día 5: evaluación, corrección y registro.
+
+## Puerta de avance
+Se avanza cuando la persona puede aplicar la habilidad en una fuente nueva, explicar decisiones clave y evitar errores graves de fidelidad. Si no puede, se cambia la explicación o el ejemplo y se vuelve a practicar.
+
+## Material de cada lección
+Cada módulo indica el objetivo, la fuente sugerida, la tarea, los criterios de corrección y la evidencia que se debe registrar. Los enlaces de la biblioteca son puntos de partida, no sustituyen la lectura o escucha de la fuente original.
