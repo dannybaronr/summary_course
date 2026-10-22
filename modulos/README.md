@@ -1,6 +1,6 @@
 # Índice de módulos y lecciones
 
-El curso contiene 42 lecciones independientes. Abre cada lección para encontrar objetivos, meta SMART, explicación, ejemplos, preguntas, actividad, criterios de evaluación, conclusión y registro de tutoría.
+El curso contiene 42 lecciones independientes. Cada lección tiene una guía complementaria con ejemplos trabajados, prácticas y claves de autocorrección. Consulta también el [índice del material docente](../material-docente/README.md).
 
 ## Nivel 0 — Aprender a comprender
 - [Lección 1 — ¿Qué es resumir?](nivel-0/leccion-01.md)
