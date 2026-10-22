@@ -1,83 +1,59 @@
 # Lección 12 — Redactar y verificar un resumen
-**Nivel:** 1 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Completar un ciclo de resumen desde el propósito hasta la comprobación final.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 1 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Completar un ciclo de resumen desde el propósito hasta la comprobación final.
-- **Medible:** El resumen refleja el núcleo, tiene estructura clara y ninguna afirmación importante carece de respaldo.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Al finalizar podrás aplicar este criterio a una fuente nueva, explicar una decisión y revisar tu resultado contra la fuente original.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+## 2. Concepto desde cero
+El ciclo completo incluye definir propósito, identificar el núcleo, seleccionar apoyos y límites, ordenar, redactar y contrastar cada afirmación con la fuente.
 
-## 4. Explicación desde cero
-Proceso: definir lector y propósito; identificar el núcleo; seleccionar razones y condiciones; ordenar; redactar con palabras propias; contrastar cada afirmación con la fuente; revisar omisiones, añadidos y longitud. La verificación es parte del trabajo, no un extra opcional.
+## 3. Ejemplo trabajado
+Un texto puede sonar claro y ser falso si convierte «no se observó mejora clara» en «el método mejoró». La revisión debe volver al original, no limitarse a releer el resumen.
 
-### Ejemplo trabajado
-Una frase fluida puede ser incorrecta si atribuye una causa que el texto no demuestra. Comparar frase por frase con la fuente evita que la redacción convincente oculte distorsiones.
+**Método:** identifica propósito y lector; localiza afirmaciones y límites; redacta sin exagerar; verifica la fidelidad contra el original.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+## 4. Práctica guiada
+Resumí en 60–80 palabras: «El centro probó una nueva reserva digital durante dos semanas. Las consultas presenciales disminuyeron, pero aumentaron los pedidos de ayuda para usar el sistema. No se compararon costos ni se recogieron opiniones de personas sin acceso a internet. El centro mantendrá la prueba un mes más y ofrecerá asistencia dos tardes por semana». Luego verificá cada oración.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** redactar y verificar un resumen.
-- **Fuente de práctica:** Usar una lista de control y señalar en el original dónde se apoya cada afirmación del resumen.
-- **Producto esperado:** Fuente de 400–600 palabras, de dificultad accesible.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+Antes de redactar, subrayá qué parte de la fuente respalda cada afirmación importante. Si una conclusión es inferida, etiquetala como tal.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «redactar y verificar un resumen»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+## 5. Práctica independiente
+Elegí una fuente distinta (clase, noticia, lectura, conversación o documento técnico). Entregá la referencia disponible, tu resumen, una decisión de selección justificada y una limitación o duda. No elijas una fuente tan extensa que no puedas comprobarla en esta sesión.
 
-## 7. Actividad práctica
-**Consigna:** Fuente de 400–600 palabras, de dificultad accesible.
+## 6. Clave de autocorrección
+Debe incluir la prueba, resultados mixtos, límites de evaluación y siguiente paso. No puede concluir que el sistema fue un éxito ni que todas las personas se beneficiaron.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+Esta clave describe los elementos que deben conservarse; no exige una única redacción. Una alternativa es válida si es clara, fiel y respaldada por la fuente.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** El resumen refleja el núcleo, tiene estructura clara y ninguna afirmación importante carece de respaldo.
+## 7. Criterios de logro
+- Fidelidad: no agrega hechos ni cambia condiciones, negaciones o certeza.
+- Pertinencia: responde al propósito indicado.
+- Justificación: explica una decisión de selección.
+- Claridad: se entiende sin volver a leer cada frase original.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+**Criterio específico:** El resumen es fiel, organizado y cada afirmación importante puede rastrearse al texto.
 
-## 9. Errores frecuentes
-- Revisar el texto propio contra el original, no solo releer el resumen.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+Si falta un criterio, marcá «requiere refuerzo», identificá el error y repetí con una fuente más breve. Completar la lectura no equivale a dominar la habilidad.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder completar un ciclo de resumen desde el propósito hasta la comprobación final.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+## 8. Errores frecuentes
+- Cambiar el sentido al acortar o parafrasear.
+- Confundir una afirmación de la fuente con una inferencia propia.
+- Borrar una limitación porque ocupa espacio.
+- Elegir lo más llamativo en vez de lo más relevante para el propósito.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
-- **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
+## 9. Preguntas para tutoría
+1. ¿Qué fragmento respalda tu afirmación central?
+2. ¿Qué se perdería al quitar este dato?
+3. ¿Qué afirmación tuya es más fuerte que la fuente?
+4. ¿Qué información podría cambiar tu conclusión?
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+## 10. Registro de práctica
+- Fuente utilizada:
+- Mi producto:
+- Decisión justificada:
+- Dificultad o error detectado:
+- Corrección tras verificar:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
+
+Actualizar PROGRESO.md únicamente después de observar una respuesta real del estudiante.
