@@ -6,12 +6,13 @@ Este repositorio enseña a transformar información transmitida por lectura, esc
 ## Empieza aquí
 1. [Cómo usar el curso](COMO-USAR-EL-CURSO.md)
 2. [Propósito y método operativo: de la fuente al conocimiento compartible](marco-operativo.md)
-3. [Plan de estudios](plan-estudios.md)
-4. [Índice de módulos y lecciones](modulos/README.md)
-5. [Estado y evidencia de aprendizaje](PROGRESO.md)
-6. [Lección 1 — ¿Qué es resumir?](modulos/nivel-0/leccion-01.md)
-7. [Biblioteca de fuentes](biblioteca-de-fuentes.md)
-8. [Material docente complementario](material-docente/README.md)
+3. [Matriz de alineación: objetivos, lecciones y evidencias](matriz-alineacion.md)
+4. [Plan de estudios](plan-estudios.md)
+5. [Índice de módulos y lecciones](modulos/README.md)
+6. [Estado y evidencia de aprendizaje](PROGRESO.md)
+7. [Lección 1 — ¿Qué es resumir?](modulos/nivel-0/leccion-01.md)
+8. [Biblioteca de fuentes](biblioteca-de-fuentes.md)
+9. [Material docente complementario](material-docente/README.md)
 
 ## Resultado esperado
 Al finalizar, la persona debería poder:
@@ -40,6 +41,7 @@ Distinguir lo que la fuente afirma, lo que la evidencia permite concluir, la int
 
 ## Estructura del repositorio
 - `marco-operativo.md`: propósito, método, escala de fuentes y estándar de calidad.
+- `matriz-alineacion.md`: relación entre resultados, lecciones, evidencias y criterios de logro.
 - `plan-estudios.md`: ruta de 8 niveles y 42 lecciones.
 - `modulos/`: lecciones individuales.
 - `material-docente/`: ejemplos, prácticas y claves.
