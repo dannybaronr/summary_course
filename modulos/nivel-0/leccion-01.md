@@ -75,3 +75,25 @@ El tutor debe:
 
 ## Nota de fidelidad
 No inventar datos, intenciones ni conclusiones. Distinguir lo explícito del texto de cualquier inferencia.
+
+## 8. Meta SMART y tiempo máximo
+- **Específica:** distinguir el tema del mensaje principal y seleccionar la información necesaria para un resumen fiel.
+- **Medible:** responder las cuatro preguntas diagnósticas y redactar un resumen de dos oraciones que no afirme que aumentaron los préstamos.
+- **Alcanzable:** trabajar únicamente con el texto de la biblioteca incluido en esta lección.
+- **Relevante:** esta habilidad es la base para todas las lecciones posteriores.
+- **Temporal:** máximo 25 minutos: 3 para leer, 5 para identificar tema y mensaje, 10 para responder y resumir, 5 para revisar y 2 para registrar la dificultad.
+- **Criterio de cierre:** entregar las respuestas y justificar al menos dos decisiones de selección. El diagnóstico no se califica como aprobado o desaprobado; sirve para adaptar la tutoría.
+
+## 9. Preguntas para la tutoría
+1. ¿Qué parte del texto te hizo pensar que esa era la idea principal?
+2. ¿Qué información cambiaría el sentido si la eliminaras?
+3. ¿Qué afirma el texto sobre las visitas y qué afirma sobre los préstamos?
+4. ¿Qué diferencia hay entre lo que el texto dice y lo que podríamos suponer?
+
+## 10. Registro de la sesión
+- **Tiempo utilizado:**
+- **Mi resumen:**
+- **Una decisión que pude justificar:**
+- **La parte que me costó:**
+- **Próximo paso:** revisar el diagnóstico y luego continuar con la Lección 2.
+
