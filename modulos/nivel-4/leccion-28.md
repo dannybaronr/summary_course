@@ -1,81 +1,57 @@
 # Lección 28 — Reseñas: contenido y valoración
 
-**Nivel:** 4 · **Duración máxima:** 35 minutos · **Estado:** pendiente
+**Nivel:** 4 · **Duración orientativa:** 30–45 minutos · **Estado:** pendiente de evidencia individual
 
-## 1. Objetivos
-Al terminar podrás:
-1. Separar qué contiene una obra de qué juicio formula quien la reseña.
-2. Explicar el criterio con tus propias palabras.
-3. Aplicarlo a una fuente y justificar una decisión.
+## 1. Resultado de aprendizaje
+Podrás producir una síntesis en el formato indicado, adaptada al lector y propósito sin distorsionar la fuente.
 
-## 2. Meta SMART
-- **Específica:** Separar qué contiene una obra de qué juicio formula quien la reseña.
-- **Medible:** No atribuye al autor de la obra los juicios de quien la reseña.
-- **Alcanzable:** una fuente breve, una técnica y una revisión.
-- **Relevante:** prepara las competencias necesarias para sintetizar fuentes variadas sin distorsionarlas.
-- **Temporal:** terminar en un máximo de 35 minutos.
-- **Cierre:** entregar el producto y registrar qué decisión fue más difícil. Si no se logra, marcar «requiere refuerzo» en vez de declarar dominio.
+## 2. Concepto desde cero
+Una reseña mezcla descripción de la obra, valoración y razones. Resumir la obra responde qué contiene; resumir la reseña también debe representar qué juzga el autor y por qué.
 
-## 3. Distribución del tiempo
-| Minutos | Trabajo |
-|---:|---|
-| 0–3 | Leer objetivo y definir propósito. |
-| 3–10 | Estudiar explicación y ejemplo. |
-| 10–15 | Responder preguntas. |
-| 15–30 | Hacer la actividad. |
-| 30–35 | Verificar y registrar dificultad. |
+## 3. Ejemplo trabajado
+«La novela sigue a una familia durante una migración» describe la obra. «El ritmo resulta irregular porque varios conflictos se resuelven con rapidez» es una valoración con una razón.
 
-## 4. Explicación desde cero
-Una reseña combina descripción, valoración y razones. Resumir la obra responde qué contiene; resumir la reseña responde qué opina el reseñista y por qué. No atribuyas a la obra una crítica que pertenece al reseñista.
+**Principio de diseño:** primero se decide qué necesita hacer o comprender el lector; después se elige la estructura y el nivel de detalle. La forma no justifica omitir límites que cambiarían el sentido.
 
-### Ejemplo resuelto
-«La novela trata de…» describe contenido. «El ritmo es irregular porque…» expresa una valoración que necesita razones.
+## 4. Práctica guiada
+Leé una reseña. Escribí tres apartados: qué obra evalúa, cuál es el juicio principal y qué razones ofrece. Separá al menos una afirmación sobre la obra de una opinión del reseñista.
 
-Al razonar, distingue qué dice la fuente, qué conclusión permite y qué interpretación agregas tú. La síntesis no debe hacer más fuerte una afirmación que la evidencia original.
+## 5. Práctica independiente
+Aplicá el mismo formato a otra fuente. Conservá la referencia y revisá el producto con estas preguntas: ¿sirve al lector?, ¿qué evidencia sostiene cada afirmación?, ¿qué condición importante podría perderse?, ¿qué debería quedar como incertidumbre?
 
-## 5. Contenido y fuente de práctica
-- **Contenido central:** reseñas: contenido y valoración.
-- **Fuente sugerida:** Dos reseñas de una obra o producto cultural, con autores y fechas.
-- **Producto:** Redactar una síntesis neutral de la obra y otra de la valoración del reseñista.
-- **Regla de fidelidad:** conservar negaciones, condiciones, excepciones, atribuciones y grado de certeza cuando afecten el sentido.
+## 6. Clave de autocorrección
+No atribuyas al libro la valoración del crítico. Una respuesta sólida resume el juicio y sus razones sin convertirlos en hechos objetivos.
 
-## 6. Preguntas de comprensión
-1. Explica el concepto con tus palabras.
-2. ¿Qué parte del ejemplo respalda tu explicación?
-3. ¿Qué error frecuente cambiaría el sentido de una síntesis sobre este tema?
-4. ¿Qué dato revisarías antes de sacar una conclusión más fuerte?
+La clave no prescribe una única respuesta. Evalúa si el producto cumple su función, es fiel y explica los límites relevantes.
 
-## 7. Actividad práctica
-**Consigna:** Redactar una síntesis neutral de la obra y otra de la valoración del reseñista.
+## 7. Criterios de logro
+- Adecuación al lector y al formato.
+- Fidelidad al contenido y a la certeza de la fuente.
+- Selección justificada de los datos necesarios.
+- Claridad y facilidad de uso.
 
-Pasos:
-1. Define para quién y para qué haces la síntesis.
-2. Marca las partes de la fuente que respaldan tus ideas.
-3. Redacta en tus propias palabras y justifica una decisión de selección.
-4. Compara el resultado con la fuente y corrige añadidos, omisiones o exageraciones.
+**Criterio específico:** Distingue contenido de la obra, juicio del reseñista y evidencia usada para valorarla.
 
-## 8. Criterios de evaluación
-Se considera logrado cuando: **No atribuye al autor de la obra los juicios de quien la reseña.**
+Si el producto no cumple estos criterios, identificá qué falla (formato, fidelidad, audiencia o evidencia), corregilo y probá de nuevo. No se considera logrado solo por respetar la extensión.
 
-Lista de comprobación:
-- ¿Responde al propósito?
-- ¿Las afirmaciones importantes tienen respaldo?
-- ¿Se preservan condiciones, atribución y certeza?
-- ¿Puedo explicar por qué conservé o eliminé cada dato relevante?
+## 8. Errores frecuentes
+- Simplificar tanto que se pierde una condición esencial.
+- Confundir opinión con hecho.
+- Usar un formato correcto que no responde al lector real.
+- Presentar una recomendación como certeza cuando faltan datos.
 
-## 9. Errores frecuentes
-- Simplificar hasta alterar el sentido.
-- Confundir una interpretación propia con algo que la fuente afirma.
-- Revisar solo la redacción y no la fidelidad del contenido.
+## 9. Preguntas para tutoría
+1. ¿Qué debe poder hacer el lector después de leer/escuchar esto?
+2. ¿Qué información sería peligrosa o engañosa de omitir?
+3. ¿Qué afirmación necesita una atribución o una reserva?
+4. ¿Qué cambiarías para otra audiencia sin alterar los hechos?
 
-## 10. Conclusión
-El dominio no se demuestra memorizando una definición, sino aplicando el criterio a una fuente, justificando una decisión y verificando el resultado.
+## 10. Registro de práctica
+- Fuente y referencia:
+- Formato y audiencia:
+- Producto:
+- Decisión de diseño justificada:
+- Revisión realizada:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
 
-## 11. Registro de tutoría
-- **Mi producto:**
-- **Decisión que justifiqué:**
-- **Dificultad:**
-- **Corrección tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
-
-El tutor debe dar retroalimentación específica, pedir un segundo intento cuando haga falta y actualizar PROGRESO.md solo después de observar evidencia.
+Actualizar PROGRESO.md únicamente después de revisar el producto real.
