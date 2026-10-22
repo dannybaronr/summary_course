@@ -1,99 +1,66 @@
 # Lección 1 — ¿Qué es resumir?
 
-**Nivel:** 0 — principiante absoluto  
-**Estado:** diagnóstico pendiente
+**Nivel:** 0 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## Objetivos
-Al terminar esta lección, podrás:
-1. Explicar con tus palabras qué es un resumen.
-2. Reconocer que el propósito determina qué información resulta relevante.
-3. Distinguir entre contar todos los detalles y comunicar lo necesario para responder una pregunta.
+## 1. Resultado de aprendizaje
+Explicar qué es resumir y por qué el propósito cambia qué información conviene conservar.
 
-## 1. Empezar con una situación cotidiana
-Imaginá que alguien te cuenta durante diez minutos cómo llegó tarde al trabajo: se despertó tarde, perdió el colectivo, llovía, encontró una calle cortada y llegó veinte minutos después de lo previsto.
+Al finalizar, deberías poder demostrar la habilidad con una fuente nueva, no solo repetir la definición.
 
-Si te preguntan «¿Qué pasó?», podrías decir:
-> Llegó veinte minutos tarde al trabajo porque se despertó tarde y tuvo problemas durante el viaje.
+## 2. Concepto explicado desde cero
+Resumir es seleccionar y organizar lo necesario para representar fielmente una fuente según un propósito, con menos extensión que el original. No es copiar frases ni reducir por reducir.
 
-La versión breve conserva el resultado y algunas causas. No repite todos los detalles porque, para esa pregunta, no todos son necesarios.
+## 3. Ejemplo resuelto paso a paso
+Fuente: «La biblioteca amplió el horario porque muchos estudiantes no podían ir por la mañana. Aumentaron las visitas por la tarde, pero los préstamos totales casi no cambiaron. La dirección mantendrá el horario tres meses más y evaluará los resultados». Resumen fiel: «La biblioteca amplió el horario y recibió más visitas por la tarde, aunque los préstamos totales casi no cambiaron; por eso, evaluará el cambio durante otro trimestre».
 
-Pero si te preguntan «¿Qué problemas tuvo durante el viaje?», la lluvia y la calle cortada vuelven a ser relevantes.
+**Cómo se resolvió:** primero se identificó qué pregunta debe responder el resumen; después se separaron las afirmaciones explícitas de las inferencias; finalmente se comprobó que la versión breve no agregara ni exagerara información.
 
-## 2. Definición inicial
-**Resumir es seleccionar y reorganizar la información necesaria para representar fielmente una fuente, según un propósito, con menos extensión que el original.**
+## 4. Práctica guiada
+Redactá dos resúmenes de la fuente: uno para contarle a un amigo qué ocurrió (máximo 35 palabras) y otro para que la dirección decida qué medir el próximo trimestre (máximo 50 palabras). Explicá qué información cambió y por qué.
 
-Esta definición contiene cuatro ideas:
-- **Seleccionar:** decidir qué conservar.
-- **Reorganizar:** presentar la información con claridad.
-- **Fidelidad:** no inventar ni cambiar el significado.
-- **Propósito:** decidir para qué y para quién se hace el resumen.
+Antes de escribir, señalá qué parte de la fuente respalda cada afirmación importante. Si una respuesta depende de una suposición, marcala como inferencia en lugar de presentarla como hecho.
 
-Un resumen no es necesariamente la versión más corta posible. Es la versión más breve que sigue cumpliendo su función sin perder información necesaria.
+## 5. Práctica independiente
+Buscá una fuente breve distinta relacionada con una clase, una noticia, un texto técnico, una conversación o una lectura. Aplicá la habilidad de esta lección y entregá:
+1. La fuente identificada (título, autor o procedencia y fecha si están disponibles).
+2. Tu producto.
+3. Una decisión de selección explicada: «Conservé/eliminé ___ porque ___».
+4. Una duda o límite que no pudiste resolver.
 
-## 3. Tema y mensaje: primera aproximación
-- **Tema:** el asunto general del que se habla.
-- **Idea principal o mensaje central:** lo más importante que se comunica sobre ese asunto.
+## 6. Clave de autocorrección
+Ambos deben conservar que aumentaron las visitas por la tarde y que los préstamos casi no variaron. La versión para decidir debe destacar que aún falta evaluar resultados; no debe afirmar que el cambio fue un éxito general.
 
-Ejemplo:
-- Tema: el horario de una biblioteca.
-- Idea principal: la biblioteca amplió su horario para facilitar el acceso de estudiantes, pero debe evaluar si el cambio también mejora el uso de sus recursos.
+La clave es orientativa, no una única redacción correcta. Se aceptan alternativas fieles, claras y justificadas. Si tu respuesta difiere, comprobá la fuente antes de asumir que está mal.
 
-No confundas «de qué trata» con «qué nos dice sobre eso». La distinción se practicará en las próximas lecciones.
+## 7. Criterios para considerar lograda la habilidad
+- **Fidelidad:** no inventa datos ni cambia negaciones, causas, condiciones o grado de certeza.
+- **Relevancia:** responde al propósito indicado.
+- **Justificación:** explica al menos una decisión de conservar o eliminar información.
+- **Claridad:** otra persona puede entender el resultado sin consultar cada frase del original.
 
-## 4. Ejercicio diagnóstico
-Leé el texto sin buscar una respuesta perfecta:
+**Criterio específico:** Distingue tema y mensaje, adapta la selección al propósito y no inventa resultados.
 
-> Una biblioteca decidió ampliar su horario de atención porque muchos estudiantes no podían acudir durante la mañana. Después de tres meses, registró un aumento de visitantes por la tarde. Sin embargo, el número total de préstamos de libros permaneció prácticamente igual. Por eso, la dirección decidió mantener el nuevo horario durante otro trimestre y evaluar si era necesario realizar cambios adicionales.
+Si falla un criterio, registrá «requiere refuerzo», identificá el tipo de error y repetí la tarea con una fuente más breve. No declares dominio por haber completado la lectura.
 
-Respondé con tus propias palabras:
-1. ¿De qué trata el texto?
-2. ¿Cuál es la idea más importante que comunica?
-3. ¿Qué información conservarías y qué información podrías eliminar en un resumen? ¿Por qué?
-4. ¿Qué te resultó más difícil al decidir qué escribir?
+## 8. Errores que hay que vigilar
+- Confundir tema con idea principal.
+- Convertir una posibilidad en certeza o una correlación en causa.
+- Eliminar una condición que cambia la conclusión.
+- Copiar palabras sin comprobar que se entendió la idea.
+- Elegir una respuesta porque suena bien, sin verificarla contra la fuente.
 
-## 5. Pistas para pensar, no respuestas
-- El tema suele poder expresarse en pocas palabras.
-- La idea principal debe decir algo sobre el tema.
-- Los resultados que parecen contradecirse pueden ser importantes: más visitantes no significa necesariamente más préstamos.
-- La decisión final de la dirección también puede importar porque muestra qué hará después de observar los resultados.
+## 9. Preguntas de tutoría
+1. ¿Qué frase concreta respalda tu idea principal?
+2. ¿Qué cambiaría si quitaras ese detalle?
+3. ¿Qué afirmaste que la fuente no dice explícitamente?
+4. ¿Qué dato te haría revisar tu conclusión?
 
-## 6. Criterio de evaluación
-Todavía no se exige una redacción perfecta. Se observará si:
-- Identificás el asunto general.
-- Reconocés el resultado y la decisión final.
-- Evitás afirmar que aumentaron los préstamos, porque el texto dice que permanecieron casi iguales.
-- Podés explicar al menos una decisión de selección.
+## 10. Registro de práctica
+- **Fuente utilizada:** El texto de la biblioteca incluido aquí.
+- **Mi respuesta/producto:**
+- **Decisión que pude justificar:**
+- **Error o duda que detecté:**
+- **Corrección después de contrastar con la fuente:**
+- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
 
-## 7. Después de responder
-El tutor debe:
-1. Evaluar cada respuesta por separado.
-2. Señalar qué está bien y qué necesita ajuste, con evidencia del texto.
-3. Explicar cualquier confusión sin etiquetar a la persona.
-4. Formular una pregunta socrática cuando sea útil.
-5. Proponer un ejercicio breve de seguimiento.
-6. Actualizar `PROGRESO.md` solo después de contar con evidencia.
-
-## Nota de fidelidad
-No inventar datos, intenciones ni conclusiones. Distinguir lo explícito del texto de cualquier inferencia.
-
-## 8. Meta SMART y tiempo máximo
-- **Específica:** distinguir el tema del mensaje principal y seleccionar la información necesaria para un resumen fiel.
-- **Medible:** responder las cuatro preguntas diagnósticas y redactar un resumen de dos oraciones que no afirme que aumentaron los préstamos.
-- **Alcanzable:** trabajar únicamente con el texto de la biblioteca incluido en esta lección.
-- **Relevante:** esta habilidad es la base para todas las lecciones posteriores.
-- **Temporal:** máximo 25 minutos: 3 para leer, 5 para identificar tema y mensaje, 10 para responder y resumir, 5 para revisar y 2 para registrar la dificultad.
-- **Criterio de cierre:** entregar las respuestas y justificar al menos dos decisiones de selección. El diagnóstico no se califica como aprobado o desaprobado; sirve para adaptar la tutoría.
-
-## 9. Preguntas para la tutoría
-1. ¿Qué parte del texto te hizo pensar que esa era la idea principal?
-2. ¿Qué información cambiaría el sentido si la eliminaras?
-3. ¿Qué afirma el texto sobre las visitas y qué afirma sobre los préstamos?
-4. ¿Qué diferencia hay entre lo que el texto dice y lo que podríamos suponer?
-
-## 10. Registro de la sesión
-- **Tiempo utilizado:**
-- **Mi resumen:**
-- **Una decisión que pude justificar:**
-- **La parte que me costó:**
-- **Próximo paso:** revisar el diagnóstico y luego continuar con la Lección 2.
-
+El tutor debe evaluar el producto y su respaldo, no la seguridad con que se expresa el estudiante. Actualizar PROGRESO.md únicamente después de observar la evidencia.
