@@ -3,6 +3,7 @@
 Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es una estimación de organización, no una promesa de dominio experto. Se repiten los niveles cuando haga falta.
 
 ## Nivel 0 — Aprender a comprender (lecciones 1–6)
+**Prácticas y claves:** [Material complementario del nivel 0](material-docente/nivel-0-comprension.md)
 1. ¿Qué es resumir? Diagnóstico con texto breve.
 2. Qué es una idea: oración, afirmación y mensaje.
 3. Tema y mensaje central.
@@ -12,6 +13,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Fuentes:** párrafos cotidianos, una parábola breve, un texto informativo.
 
 ## Nivel 1 — Seleccionar y reducir (7–12)
+**Prácticas y claves:** [Material complementario del nivel 1](material-docente/nivel-1-seleccion.md)
 7. Qué significa que una idea sea importante.
 8. Qué se puede eliminar y qué no.
 9. Repetición y redundancia.
@@ -21,6 +23,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Fuentes:** noticias, reseñas y resúmenes de libros.
 
 ## Nivel 2 — Construir resúmenes funcionales (13–18)
+**Prácticas y claves:** [Material complementario del nivel 2](material-docente/nivel-2-estructura.md)
 13. Concisión sin pérdida de información.
 14. Cohesión y conectores.
 15. Orden cronológico y orden lógico.
@@ -30,6 +33,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Fuentes:** conversaciones, argumentos filosóficos y textos explicativos.
 
 ## Nivel 3 — Interpretar la estructura de la fuente (19–24)
+**Prácticas y claves:** [Material complementario del nivel 3](material-docente/nivel-3-fuentes.md)
 19. Artículos y textos académicos.
 20. Libros y capítulos.
 21. Cursos, clases y tutorías.
@@ -39,6 +43,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Fuentes:** capítulos de libros, una clase grabada, un discurso y un pasaje narrativo bíblico.
 
 ## Nivel 4 — Cambiar de formato sin perder fidelidad (25–30)
+**Prácticas y claves:** [Material complementario del nivel 4](material-docente/nivel-4-formatos.md)
 25. Notas de estudio y fichas de lectura.
 26. Resumen ejecutivo para una decisión.
 27. Explicación para una persona principiante.
@@ -48,6 +53,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Fuentes:** documentación técnica, reseñas y una charla divulgativa.
 
 ## Nivel 5 — Sintetizar varias fuentes (31–35)
+**Prácticas y claves:** [Material complementario del nivel 5](material-docente/nivel-5-multiples-fuentes.md)
 31. Comparar fuentes que coinciden.
 32. Identificar desacuerdos y contradicciones.
 33. Separar hecho, opinión, inferencia y valoración.
@@ -56,6 +62,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Fuentes:** dos traducciones o comentarios bíblicos, dos artículos sobre un tema, documentación técnica y opiniones divergentes.
 
 ## Nivel 6 — Juicio experto y verificación (36–39)
+**Prácticas y claves:** [Material complementario del nivel 6](material-docente/nivel-6-verificacion.md)
 36. Adaptar la síntesis al lector, propósito y riesgo.
 37. Detectar omisiones críticas y distorsiones.
 38. Verificar afirmaciones contra la fuente.
@@ -63,6 +70,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 **Caso integrador:** transparencia, interpretabilidad y explicabilidad en IA. La formulación de una persona o de un documento no se asumirá como definición universal: se contrastará con marcos técnicos como NIST.
 
 ## Nivel 7 — Enseñar a resumir (40–42)
+**Prácticas y claves:** [Material complementario del nivel 7](material-docente/nivel-7-ensenar.md)
 40. Diagnosticar dificultades de un aprendiz.
 41. Hacer preguntas socráticas y dar retroalimentación útil.
 42. Diseñar y enseñar una sesión completa.
