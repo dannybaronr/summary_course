@@ -1,83 +1,66 @@
 # Lección 5 — Idea principal e ideas secundarias
-**Nivel:** 0 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Encontrar la afirmación que organiza las demás y explicar la función de los apoyos.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 0 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Encontrar la afirmación que organiza las demás y explicar la función de los apoyos.
-- **Medible:** Todas las secundarias seleccionadas tienen una función justificable respecto del núcleo.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Identificar el núcleo de un párrafo y explicar qué función cumple cada idea de apoyo.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+Al finalizar, deberías poder demostrar la habilidad con una fuente nueva, no solo repetir la definición.
 
-## 4. Explicación desde cero
-La idea principal expresa el núcleo del mensaje. Las secundarias la explican, fundamentan, ejemplifican, precisan o limitan. Una secundaria puede ser importante, pero su función depende de cómo contribuye al núcleo.
+## 2. Concepto explicado desde cero
+La idea principal expresa el mensaje que organiza el párrafo. Las ideas secundarias pueden dar razones, ejemplos, datos, consecuencias o límites. Una secundaria no es necesariamente poco importante: puede ser esencial para justificar el núcleo.
 
-### Ejemplo trabajado
-«Dormir lo suficiente ayuda a concentrarse. La falta de sueño dificulta la atención. Una rutina estable puede favorecer el estudio». Núcleo: el descanso suficiente puede favorecer la concentración; las otras oraciones explican y proponen una medida.
+## 3. Ejemplo resuelto paso a paso
+«Dormir lo suficiente ayuda a mantener la atención. La falta de sueño puede dificultar la concentración. Mantener una rutina de descanso puede ayudar a estudiar con mayor regularidad». Núcleo: el descanso suficiente puede favorecer la atención; las otras ideas explican el problema y una posible medida.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+**Cómo se resolvió:** primero se identificó qué pregunta debe responder el resumen; después se separaron las afirmaciones explícitas de las inferencias; finalmente se comprobó que la versión breve no agregara ni exagerara información.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** idea principal e ideas secundarias.
-- **Fuente de práctica:** Para cada oración secundaria, completar: «Esta oración ayuda a entender la idea principal porque…».
-- **Producto esperado:** Texto breve informativo o párrafo de estudio, evitando decidir por la ubicación de la oración.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+## 4. Práctica guiada
+Escribí la idea principal del ejemplo en una oración. Para cada una de las otras dos, completá: «Esta idea apoya, explica o limita el núcleo porque…». Después probá eliminar una oración y describí qué se pierde.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «idea principal e ideas secundarias»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+Antes de escribir, señalá qué parte de la fuente respalda cada afirmación importante. Si una respuesta depende de una suposición, marcala como inferencia en lugar de presentarla como hecho.
 
-## 7. Actividad práctica
-**Consigna:** Texto breve informativo o párrafo de estudio, evitando decidir por la ubicación de la oración.
+## 5. Práctica independiente
+Buscá una fuente breve distinta relacionada con una clase, una noticia, un texto técnico, una conversación o una lectura. Aplicá la habilidad de esta lección y entregá:
+1. La fuente identificada (título, autor o procedencia y fecha si están disponibles).
+2. Tu producto.
+3. Una decisión de selección explicada: «Conservé/eliminé ___ porque ___».
+4. Una duda o límite que no pudiste resolver.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+## 6. Clave de autocorrección
+Las secundarias describen un posible efecto de dormir poco y una estrategia práctica. Si se elimina una, el núcleo puede seguir comprendiéndose, pero pierde explicación o aplicación. No se debe presentar la rutina como garantía de mejores resultados.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** Todas las secundarias seleccionadas tienen una función justificable respecto del núcleo.
+La clave es orientativa, no una única redacción correcta. Se aceptan alternativas fieles, claras y justificadas. Si tu respuesta difiere, comprobá la fuente antes de asumir que está mal.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+## 7. Criterios para considerar lograda la habilidad
+- **Fidelidad:** no inventa datos ni cambia negaciones, causas, condiciones o grado de certeza.
+- **Relevancia:** responde al propósito indicado.
+- **Justificación:** explica al menos una decisión de conservar o eliminar información.
+- **Claridad:** otra persona puede entender el resultado sin consultar cada frase del original.
 
-## 9. Errores frecuentes
-- Si al quitar una oración el núcleo queda igual pero pierde apoyo, probablemente sea secundaria; comprobar con el texto completo.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+**Criterio específico:** Propone un núcleo respaldado y asigna una función justificable a cada apoyo.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder encontrar la afirmación que organiza las demás y explicar la función de los apoyos.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+Si falla un criterio, registrá «requiere refuerzo», identificá el tipo de error y repetí la tarea con una fuente más breve. No declares dominio por haber completado la lectura.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
+## 8. Errores que hay que vigilar
+- Confundir tema con idea principal.
+- Convertir una posibilidad en certeza o una correlación en causa.
+- Eliminar una condición que cambia la conclusión.
+- Copiar palabras sin comprobar que se entendió la idea.
+- Elegir una respuesta porque suena bien, sin verificarla contra la fuente.
+
+## 9. Preguntas de tutoría
+1. ¿Qué frase concreta respalda tu idea principal?
+2. ¿Qué cambiaría si quitaras ese detalle?
+3. ¿Qué afirmaste que la fuente no dice explícitamente?
+4. ¿Qué dato te haría revisar tu conclusión?
+
+## 10. Registro de práctica
+- **Fuente utilizada:** El párrafo sobre descanso.
+- **Mi respuesta/producto:**
 - **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
+- **Error o duda que detecté:**
+- **Corrección después de contrastar con la fuente:**
 - **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+El tutor debe evaluar el producto y su respaldo, no la seguridad con que se expresa el estudiante. Actualizar PROGRESO.md únicamente después de observar la evidencia.
