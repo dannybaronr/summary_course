@@ -55,7 +55,23 @@ Si falla un criterio, registrá «requiere refuerzo», identificá el tipo de er
 3. ¿Qué afirmaste que la fuente no dice explícitamente?
 4. ¿Qué dato te haría revisar tu conclusión?
 
-## 10. Registro de práctica
+
+## 11. Diagnóstico inicial del curso
+Antes de avanzar, respondé sin consultar la clave ni pedir ayuda. El objetivo no es aprobar o desaprobar, sino identificar qué conviene enseñar primero.
+
+Texto:
+
+> Una biblioteca decidió ampliar su horario de atención porque muchos estudiantes no podían acudir durante la mañana. Después de tres meses, registró un aumento de visitantes por la tarde. Sin embargo, el número total de préstamos de libros permaneció prácticamente igual. Por eso, la dirección decidió mantener el nuevo horario durante otro trimestre y evaluar si era necesario realizar cambios adicionales.
+
+1. ¿De qué trata el texto? Respondé en una frase.
+2. ¿Cuál es la idea más importante que comunica?
+3. Resumilo en dos oraciones. Explicá qué conservaste y qué eliminaste.
+4. ¿Qué te resultó más difícil: entender el texto, identificar lo importante o decidir qué eliminar?
+5. ¿Qué conclusión no sería correcto afirmar a partir del texto? Explicá por qué.
+
+No se espera una respuesta perfecta. Conservá tus respuestas originales para compararlas con el segundo intento después de recibir retroalimentación. También podés consultar la [guía de evaluación diagnóstica](../../evaluaciones/evaluacion-diagnostica.md).
+
+## 12. Registro de práctica
 - **Fuente utilizada:** El texto de la biblioteca incluido aquí.
 - **Mi respuesta/producto:**
 - **Decisión que pude justificar:**
