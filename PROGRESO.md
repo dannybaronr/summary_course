@@ -50,3 +50,11 @@ Copia y completa después de cada clase:
 - Se definió una biblioteca diversa de materiales.
 - Se estableció una regla de avance basada en evidencia.
 - El diagnóstico inicial todavía no tiene respuestas registradas.
+
+
+### 2026-10-22 — desarrollo de lecciones independientes
+- Se organizaron archivos separados para las 42 lecciones, con enlaces desde las portadas de cada nivel.
+- Se estandarizó la estructura de clase: objetivos, meta SMART, tiempo máximo, explicación, ejemplo, fuente de práctica, preguntas, actividad, criterios, errores frecuentes, conclusión y registro de tutoría.
+- Se actualizaron la portada del repositorio, el índice de módulos y el plan para facilitar la navegación.
+- **Importante:** esto completa la estructura didáctica inicial; no significa que el alumno haya completado o dominado las 42 lecciones.
+- **Siguiente acción pedagógica:** responder el diagnóstico de la Lección 1. Después se personalizarán las explicaciones y ejercicios según las dificultades observadas.
