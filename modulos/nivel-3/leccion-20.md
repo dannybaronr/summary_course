@@ -1,83 +1,57 @@
 # Lección 20 — Resumir libros y capítulos
-**Nivel:** 3 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Reconstruir la progresión de una obra y resumir un capítulo sin inferir contenido desde el título.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 3 · **Duración orientativa:** 35–45 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Reconstruir la progresión de una obra y resumir un capítulo sin inferir contenido desde el título.
-- **Medible:** Cada afirmación importante puede localizarse en el capítulo y su función en la obra está explicada.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Podrás adaptar el método de síntesis a este tipo de fuente sin borrar sus características propias ni inventar información.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+## 2. Concepto desde cero
+Un libro se resume en varios niveles: tesis global, función del capítulo, argumentos o episodios clave, ejemplos y relación con la obra completa. No todo capítulo tiene el mismo peso.
 
-## 4. Explicación desde cero
-Un libro puede desarrollar una tesis a lo largo de varias partes. Para resumirlo hay que identificar la pregunta que guía la obra, cómo avanzan los capítulos y qué papel cumple el fragmento elegido. Una reseña o sinopsis no reemplaza el texto original.
+## 3. Ejemplo trabajado
+En un capítulo de manual, una definición puede preparar un argumento posterior; en una novela, una escena puede cambiar la motivación de un personaje. El resumen debe respetar la estructura del género.
 
-### Ejemplo trabajado
-En un capítulo argumentativo, registrar la afirmación central, las razones, los ejemplos y cómo conecta con el capítulo anterior o posterior.
+**Decisión clave:** identifica primero qué tipo de fuente tenés delante y qué espera el lector. Después seleccioná el contenido que responde al propósito y preservá la distinción entre dato, atribución e interpretación.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+## 4. Práctica guiada
+Elegí un capítulo leído. Escribí: (1) tesis o función en una oración; (2) tres ideas/episodios necesarios; (3) qué aporta el capítulo al libro; (4) un detalle que omitiste y por qué. Si es ficción, separá trama de interpretación.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** resumir libros y capítulos.
-- **Fuente de práctica:** Leer introducción, índice y capítulo completo; anotar páginas o secciones para localizar afirmaciones.
-- **Producto esperado:** Capítulo de un libro legalmente accesible; obra cristiana o filosófica como opción.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+## 5. Práctica independiente
+Repetí el procedimiento con otra fuente del mismo tipo. Guardá la referencia disponible (autor, título, fecha, página o marca temporal) y anotá una decisión difícil. Si la fuente no permite verificar una afirmación, registrala como pendiente en vez de completarla con una suposición.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «resumir libros y capítulos»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+## 6. Clave de autocorrección
+Una buena respuesta explica tanto el contenido del capítulo como su función. No debe convertirse en una lista de detalles ni presentar la interpretación personal como hecho textual.
 
-## 7. Actividad práctica
-**Consigna:** Capítulo de un libro legalmente accesible; obra cristiana o filosófica como opción.
+Las soluciones pueden variar. Se considera válida una respuesta distinta si conserva los hechos relevantes, representa correctamente la fuente y separa con claridad lo explícito de lo inferido.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+## 7. Criterios de logro
+- Selecciona contenido adecuado al género y al propósito.
+- Mantiene atribuciones, secuencia y límites importantes.
+- Separa hechos de la fuente e interpretación propia.
+- Permite volver a la fuente para verificar las afirmaciones principales.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** Cada afirmación importante puede localizarse en el capítulo y su función en la obra está explicada.
+**Criterio específico:** Explica el núcleo y la función del capítulo dentro del conjunto.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+Si no se cumple, registrá el problema exacto y practicá primero con un fragmento más breve. No se declara dominio por completar la actividad sin verificarla.
 
-## 9. Errores frecuentes
-- Distinguir lo que el autor dice de lo que un comentarista interpreta.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+## 8. Errores frecuentes
+- Aplicar el mismo formato a toda clase de fuente.
+- Confundir preguntas con respuestas o propuestas con acuerdos.
+- Mezclar trama y moraleja, o contenido y efecto retórico.
+- Omitir contexto necesario para entender el alcance.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder reconstruir la progresión de una obra y resumir un capítulo sin inferir contenido desde el título.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+## 9. Preguntas para tutoría
+1. ¿Qué elemento de esta fuente no aparecería en otro género?
+2. ¿Qué parte es explícita y cuál es interpretación?
+3. ¿Qué detalle cambiaría el sentido si lo quitamos?
+4. ¿Cómo puede otra persona verificar tu síntesis?
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
-- **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
+## 10. Registro de práctica
+- Tipo y referencia de la fuente:
+- Producto entregado:
+- Decisión justificada:
+- Duda o límite:
+- Corrección después de revisar:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+Actualizar PROGRESO.md únicamente después de observar evidencia real.
