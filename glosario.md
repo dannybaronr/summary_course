@@ -1,0 +1,25 @@
+# Glosario del curso
+
+- **Resumen:** representación más breve de una fuente que conserva la información necesaria para un propósito.
+- **Síntesis:** integración organizada de información de una o más fuentes; debe hacer visible de dónde procede cada afirmación.
+- **Tema:** asunto general del que trata una fuente.
+- **Idea principal:** afirmación central que la fuente comunica sobre el tema.
+- **Idea secundaria:** idea que explica, justifica, limita o desarrolla la principal.
+- **Detalle:** dato específico que puede ser importante o prescindible según el propósito.
+- **Fidelidad:** correspondencia entre el resumen y el sentido de la fuente original.
+- **Paráfrasis:** expresar una idea con palabras propias sin cambiar su sentido ni ocultar su procedencia.
+- **Inferencia:** conclusión derivada de información disponible, aunque no esté expresada literalmente.
+- **Premisa:** afirmación usada como razón para apoyar una conclusión.
+- **Conclusión:** afirmación que un argumento intenta justificar.
+- **Evidencia:** información que apoya o debilita una afirmación; su fuerza depende de su calidad y pertinencia.
+- **Atribución:** indicar quién sostiene una idea o de qué fuente procede.
+- **Contexto:** circunstancias, estructura y propósito que ayudan a interpretar una afirmación.
+- **Sesgo:** tendencia sistemática que puede influir en la selección, presentación o interpretación.
+- **Redundancia:** repetición de información que no aporta algo nuevo para el propósito.
+- **Causalidad:** relación en la que un factor contribuye a producir otro; no equivale a que dos hechos ocurran juntos.
+- **Correlación:** asociación entre variables; por sí sola no demuestra causalidad.
+- **Transparencia en IA:** disponibilidad de información relevante sobre el sistema, su diseño, datos, funcionamiento, uso y decisiones, según el contexto.
+- **Explicabilidad en IA:** representación o explicación de cómo funciona el sistema o cómo se genera una salida; las definiciones varían según marco y propósito.
+- **Interpretabilidad en IA:** posibilidad de comprender el significado o comportamiento de un modelo o salida en un contexto determinado; no existe una única definición universal.
+- **Rúbrica:** conjunto explícito de criterios usados para evaluar una tarea.
+- **Dominio demostrado:** capacidad observada de aplicar una habilidad en un ejercicio nuevo y justificar decisiones importantes.
