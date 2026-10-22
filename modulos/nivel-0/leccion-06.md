@@ -1,83 +1,66 @@
 # Lección 6 — Ejemplos, explicaciones, detalles y excepciones
-**Nivel:** 0 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Decidir qué función cumple un detalle y cuándo no puede eliminarse.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 0 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Decidir qué función cumple un detalle y cuándo no puede eliminarse.
-- **Medible:** Preservar toda condición que cambie el alcance; no conservar ejemplos solo por ser memorables.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Distinguir detalles ilustrativos de condiciones que cambian el alcance de una afirmación.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+Al finalizar, deberías poder demostrar la habilidad con una fuente nueva, no solo repetir la definición.
 
-## 4. Explicación desde cero
-Un ejemplo hace concreta una idea; una explicación aclara cómo o por qué; un detalle precisa circunstancias; una excepción limita el alcance. Las excepciones pueden parecer pequeñas y aun así cambiar el sentido general.
+## 2. Concepto explicado desde cero
+Un ejemplo vuelve concreta una idea; una explicación aclara cómo o por qué; un detalle precisa; una excepción limita la afirmación. Para resumir, la función importa más que el tamaño de la frase.
 
-### Ejemplo trabajado
-«La aplicación reduce errores en tareas repetitivas; sin embargo, necesita revisión humana cuando hay datos incompletos». La condición de revisión no es adorno si el resumen orienta una decisión.
+## 3. Ejemplo resuelto paso a paso
+«La aplicación automatiza tareas repetitivas; aun así, una persona debe revisar los resultados cuando los datos están incompletos». La condición de revisión es crítica si el resumen orienta una decisión.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+**Cómo se resolvió:** primero se identificó qué pregunta debe responder el resumen; después se separaron las afirmaciones explícitas de las inferencias; finalmente se comprobó que la versión breve no agregara ni exagerara información.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** ejemplos, explicaciones, detalles y excepciones.
-- **Fuente de práctica:** Anotar al margen la función de cada detalle. Luego quitarlo de prueba y preguntar qué comprensión o decisión cambiaría.
-- **Producto esperado:** Un aviso práctico o texto divulgativo de 100–150 palabras.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+## 4. Práctica guiada
+En el ejemplo, identificá la afirmación principal y la excepción/condición. Escribí un resumen de una oración para un folleto general y otro para un procedimiento operativo. Explicá por qué no necesariamente son iguales.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «ejemplos, explicaciones, detalles y excepciones»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+Antes de escribir, señalá qué parte de la fuente respalda cada afirmación importante. Si una respuesta depende de una suposición, marcala como inferencia en lugar de presentarla como hecho.
 
-## 7. Actividad práctica
-**Consigna:** Un aviso práctico o texto divulgativo de 100–150 palabras.
+## 5. Práctica independiente
+Buscá una fuente breve distinta relacionada con una clase, una noticia, un texto técnico, una conversación o una lectura. Aplicá la habilidad de esta lección y entregá:
+1. La fuente identificada (título, autor o procedencia y fecha si están disponibles).
+2. Tu producto.
+3. Una decisión de selección explicada: «Conservé/eliminé ___ porque ___».
+4. Una duda o límite que no pudiste resolver.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+## 6. Clave de autocorrección
+El folleto puede explicar que la aplicación automatiza tareas con revisión en casos de datos incompletos. El procedimiento debe conservar explícitamente cuándo se requiere revisión humana. No debe decir que la aplicación funciona sin supervisión.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** Preservar toda condición que cambie el alcance; no conservar ejemplos solo por ser memorables.
+La clave es orientativa, no una única redacción correcta. Se aceptan alternativas fieles, claras y justificadas. Si tu respuesta difiere, comprobá la fuente antes de asumir que está mal.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+## 7. Criterios para considerar lograda la habilidad
+- **Fidelidad:** no inventa datos ni cambia negaciones, causas, condiciones o grado de certeza.
+- **Relevancia:** responde al propósito indicado.
+- **Justificación:** explica al menos una decisión de conservar o eliminar información.
+- **Claridad:** otra persona puede entender el resultado sin consultar cada frase del original.
 
-## 9. Errores frecuentes
-- La importancia se mide por su función para el propósito, no por la cantidad de palabras que ocupa.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+**Criterio específico:** Conserva la condición cuando afecta la seguridad o el uso y justifica cualquier eliminación.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder decidir qué función cumple un detalle y cuándo no puede eliminarse.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+Si falla un criterio, registrá «requiere refuerzo», identificá el tipo de error y repetí la tarea con una fuente más breve. No declares dominio por haber completado la lectura.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
+## 8. Errores que hay que vigilar
+- Confundir tema con idea principal.
+- Convertir una posibilidad en certeza o una correlación en causa.
+- Eliminar una condición que cambia la conclusión.
+- Copiar palabras sin comprobar que se entendió la idea.
+- Elegir una respuesta porque suena bien, sin verificarla contra la fuente.
+
+## 9. Preguntas de tutoría
+1. ¿Qué frase concreta respalda tu idea principal?
+2. ¿Qué cambiaría si quitaras ese detalle?
+3. ¿Qué afirmaste que la fuente no dice explícitamente?
+4. ¿Qué dato te haría revisar tu conclusión?
+
+## 10. Registro de práctica
+- **Fuente utilizada:** El ejemplo de la aplicación.
+- **Mi respuesta/producto:**
 - **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
+- **Error o duda que detecté:**
+- **Corrección después de contrastar con la fuente:**
 - **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+El tutor debe evaluar el producto y su respaldo, no la seguridad con que se expresa el estudiante. Actualizar PROGRESO.md únicamente después de observar la evidencia.
