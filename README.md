@@ -10,6 +10,7 @@ Este repositorio es el manual central del curso. Cada una de las 42 lecciones ti
 4. [Estado y evidencia de aprendizaje](PROGRESO.md)
 5. [Lección 1 — ¿Qué es resumir?](modulos/nivel-0/leccion-01.md)
 6. [Biblioteca de fuentes](biblioteca-de-fuentes.md)
+7. [Material docente complementario: ejemplos, prácticas y claves para las 42 lecciones](material-docente/README.md)
 
 ## Qué contiene cada lección
 - Objetivos observables.
@@ -30,6 +31,7 @@ Distinguir lo que la fuente afirma, lo que la evidencia permite concluir, la int
 ## Estructura del repositorio
 - `plan-estudios.md`: ruta de 8 niveles y 42 lecciones.
 - `modulos/`: portadas de niveles y lecciones independientes.
+- `material-docente/`: ejemplos trabajados, prácticas y claves de autocorrección organizados por nivel.
 - `biblioteca-de-fuentes.md`: materiales diversos para practicar.
 - `PROGRESO.md`: estado del aprendizaje.
 - `evaluaciones/rubrica.md`: criterios comunes.
