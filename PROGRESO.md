@@ -8,7 +8,7 @@ Este archivo conserva el punto de continuidad del curso. Registrar evidencia rea
 - **Estado:** diagnóstico pendiente.
 - **Dominio demostrado:** aún no evaluado.
 - **Última organización del curso:** 2026-10-22.
-- **Próxima acción concreta:** responder las cuatro preguntas del diagnóstico al final de la Lección 1.
+- **Próxima acción concreta:** responder las cinco consignas de `evaluaciones/evaluacion-diagnostica.md` sin consultar la guía del tutor.
 
 ## Mapa de competencias
 | Competencia | Estado | Evidencia |
@@ -58,3 +58,10 @@ Copia y completa después de cada clase:
 - Se actualizaron la portada del repositorio, el índice de módulos y el plan para facilitar la navegación.
 - **Importante:** esto completa la estructura didáctica inicial; no significa que el alumno haya completado o dominado las 42 lecciones.
 - **Siguiente acción pedagógica:** responder el diagnóstico de la Lección 1. Después se personalizarán las explicaciones y ejercicios según las dificultades observadas.
+
+
+### 2026-10-22 — ampliación del material pedagógico
+- Se añadieron guías complementarias para los ocho niveles, con ejemplos trabajados, prácticas guiadas e independientes y claves de autocorrección para las 42 lecciones.
+- Se creó `material-docente/README.md` como índice de estos materiales y se enlazó desde el README principal.
+- Se corrigió la discrepancia entre el número de preguntas del diagnóstico y la próxima acción registrada.
+- **Estado honesto:** los materiales están desarrollados en una primera versión ampliada, pero todavía requieren prueba de uso, revisión de enlaces y validación mediante respuestas reales del estudiante. No se registra dominio de ninguna lección.
