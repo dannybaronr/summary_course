@@ -1,83 +1,66 @@
 # Lección 2 — ¿Qué es una idea?
-**Nivel:** 0 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Distinguir una palabra temática, una afirmación completa y una afirmación acompañada de razones.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 0 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Distinguir una palabra temática, una afirmación completa y una afirmación acompañada de razones.
-- **Medible:** Clasificar correctamente al menos 5 de 6 expresiones y explicar una diferencia con palabras propias.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Distinguir un tema nombrado de una afirmación y de una afirmación acompañada de una razón.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+Al finalizar, deberías poder demostrar la habilidad con una fuente nueva, no solo repetir la definición.
 
-## 4. Explicación desde cero
-Una palabra nombra algo; una afirmación dice algo que puede entenderse o discutirse. Una explicación añade cómo o por qué. Para resumir, las afirmaciones y sus relaciones suelen aportar más que una lista de sustantivos.
+## 2. Concepto explicado desde cero
+Una palabra o frase puede nombrar un tema («la lluvia»). Una idea afirma algo («el camino se inundó»). Una explicación añade una relación o razón («el camino se inundó porque llovió durante horas»). La razón propuesta no siempre está demostrada.
 
-### Ejemplo trabajado
-«La lluvia» nombra un tema. «El camino se inundó» afirma algo. «El camino se inundó porque llovió durante horas» añade una relación causal propuesta.
+## 3. Ejemplo resuelto paso a paso
+A: «La privacidad». B: «La aplicación recopila datos personales». C: «La aplicación recopila datos personales para personalizar recomendaciones». A nombra el tema; B afirma un hecho que habría que verificar; C agrega una finalidad que solo es válida si la fuente la respalda.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+**Cómo se resolvió:** primero se identificó qué pregunta debe responder el resumen; después se separaron las afirmaciones explícitas de las inferencias; finalmente se comprobó que la versión breve no agregara ni exagerara información.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** ¿qué es una idea?.
-- **Fuente de práctica:** Tomar tres oraciones de cualquier texto y preguntar: ¿qué se afirma?, ¿sobre quién o qué?, ¿se da una razón o condición?
-- **Producto esperado:** Frases cotidianas; opcionalmente Marcos 4:1–9, describiendo primero qué ocurre antes de interpretar.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+## 4. Práctica guiada
+Clasificá cada expresión como tema, afirmación o afirmación con razón: (1) «el sueño»; (2) «dormir poco dificulta la atención»; (3) «la atención bajó porque el grupo durmió poco»; (4) «la seguridad de la red»; (5) «el servidor rechazó conexiones»; (6) «el servidor rechazó conexiones porque se agotó el límite configurado». En (3) y (6), indicá qué evidencia necesitarías para aceptar la causa.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «¿qué es una idea?»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+Antes de escribir, señalá qué parte de la fuente respalda cada afirmación importante. Si una respuesta depende de una suposición, marcala como inferencia en lugar de presentarla como hecho.
 
-## 7. Actividad práctica
-**Consigna:** Frases cotidianas; opcionalmente Marcos 4:1–9, describiendo primero qué ocurre antes de interpretar.
+## 5. Práctica independiente
+Buscá una fuente breve distinta relacionada con una clase, una noticia, un texto técnico, una conversación o una lectura. Aplicá la habilidad de esta lección y entregá:
+1. La fuente identificada (título, autor o procedencia y fecha si están disponibles).
+2. Tu producto.
+3. Una decisión de selección explicada: «Conservé/eliminé ___ porque ___».
+4. Una duda o límite que no pudiste resolver.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+## 6. Clave de autocorrección
+1 tema; 2 afirmación; 3 afirmación con razón causal propuesta; 4 tema; 5 afirmación; 6 afirmación con razón causal propuesta. Una frase causal no demuestra por sí sola que la causa sea correcta.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** Clasificar correctamente al menos 5 de 6 expresiones y explicar una diferencia con palabras propias.
+La clave es orientativa, no una única redacción correcta. Se aceptan alternativas fieles, claras y justificadas. Si tu respuesta difiere, comprobá la fuente antes de asumir que está mal.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+## 7. Criterios para considerar lograda la habilidad
+- **Fidelidad:** no inventa datos ni cambia negaciones, causas, condiciones o grado de certeza.
+- **Relevancia:** responde al propósito indicado.
+- **Justificación:** explica al menos una decisión de conservar o eliminar información.
+- **Claridad:** otra persona puede entender el resultado sin consultar cada frase del original.
 
-## 9. Errores frecuentes
-- Una afirmación tiene sentido suficiente para ser evaluada; una razón es una parte adicional, no siempre una causa demostrada.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+**Criterio específico:** Clasifica al menos 5 de 6 y distingue afirmación de explicación causal.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder distinguir una palabra temática, una afirmación completa y una afirmación acompañada de razones.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+Si falla un criterio, registrá «requiere refuerzo», identificá el tipo de error y repetí la tarea con una fuente más breve. No declares dominio por haber completado la lectura.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
+## 8. Errores que hay que vigilar
+- Confundir tema con idea principal.
+- Convertir una posibilidad en certeza o una correlación en causa.
+- Eliminar una condición que cambia la conclusión.
+- Copiar palabras sin comprobar que se entendió la idea.
+- Elegir una respuesta porque suena bien, sin verificarla contra la fuente.
+
+## 9. Preguntas de tutoría
+1. ¿Qué frase concreta respalda tu idea principal?
+2. ¿Qué cambiaría si quitaras ese detalle?
+3. ¿Qué afirmaste que la fuente no dice explícitamente?
+4. ¿Qué dato te haría revisar tu conclusión?
+
+## 10. Registro de práctica
+- **Fuente utilizada:** Las seis expresiones del ejercicio.
+- **Mi respuesta/producto:**
 - **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
+- **Error o duda que detecté:**
+- **Corrección después de contrastar con la fuente:**
 - **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+El tutor debe evaluar el producto y su respaldo, no la seguridad con que se expresa el estudiante. Actualizar PROGRESO.md únicamente después de observar la evidencia.
