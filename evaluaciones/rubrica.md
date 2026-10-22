@@ -42,3 +42,40 @@ Además de la calidad del resumen, observar si la persona puede:
 - Formular una pregunta que ayude a pensar.
 - Dar retroalimentación específica y respetuosa.
 - Comprobar la mejora con evidencia.
+
+## Umbrales de decisión y errores críticos
+
+La escala 0–4 describe calidad observable, no valor personal ni inteligencia.
+
+- **0 — Ausente o contradictorio:** no identifica la dimensión o la respuesta la contradice.
+- **1 — Inicial:** la habilidad aparece de forma aislada, con errores que cambian el sentido.
+- **2 — Parcial:** el núcleo está presente, pero hay omisiones, desorden o justificaciones débiles.
+- **3 — Competente:** el resultado es fiel y útil; los ajustes pendientes no cambian el mensaje central.
+- **4 — Sólido:** selección, estructura y decisiones están justificadas y se transfieren a una fuente nueva.
+
+### Regla de dominio recomendada
+- **85–100:** puede considerarse competente en esta tarea si no hay error crítico y la fidelidad puntúa al menos 3/4.
+- **70–84:** resultado funcional; corregir los puntos débiles y hacer un ejercicio breve de transferencia.
+- **Menos de 70:** identificar la dimensión más débil y practicarla antes de repetir una tarea completa.
+- **Cualquier puntuación:** si hay una distorsión crítica, no marcar dominio hasta corregirla y resolver una variante.
+
+Estos umbrales son criterios didácticos iniciales, no baremos psicométricos validados. El tutor debe ajustarlos si la tarea o el nivel exigen otro estándar.
+
+### Ejemplos de error crítico
+- Afirmar que ocurrió un resultado que la fuente niega.
+- Convertir correlación en causalidad sin respaldo.
+- Omitir una excepción que cambia la aplicabilidad de una regla.
+- Atribuir a un autor una postura expresada por un crítico.
+- Presentar una hipótesis como hecho confirmado.
+- Cambiar una propuesta en acuerdo o decisión firme.
+
+### Cómo dar retroalimentación
+Usar esta secuencia:
+1. **Evidencia:** citar la frase concreta del trabajo y el pasaje relevante de la fuente.
+2. **Diagnóstico provisional:** nombrar la habilidad que parece fallar, sin etiquetar a la persona.
+3. **Pregunta:** ayudar a que el estudiante detecte la diferencia.
+4. **Corrección:** mostrar qué cambiaría y por qué.
+5. **Transferencia:** pedir un nuevo intento breve para comprobar el aprendizaje.
+
+### Separar resultado y proceso
+Un resumen puede ser correcto por casualidad. Para acreditar dominio, el estudiante también debe justificar al menos una decisión importante y aplicar el criterio en otra fuente.
