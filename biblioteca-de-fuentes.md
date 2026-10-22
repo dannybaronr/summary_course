@@ -146,3 +146,33 @@ Elegir una página de documentación (por ejemplo, un protocolo, una herramienta
 - Limitaciones o sesgos posibles:
 - Fecha de consulta:
 - Qué se debe verificar:
+
+
+## H. Ruta de videos de YouTube para practicar con material audiovisual
+Los siguientes enlaces abren búsquedas temáticas, no garantizan que todos los resultados sean de igual calidad. Elegir un video con autor o institución identificable y anotar el título exacto antes de resumirlo.
+
+- **Biblia: resumen de libros y contexto:** https://www.youtube.com/results?search_query=Proyecto+Biblia+resumen+libros+Biblia+espa%C3%B1ol
+- **Estudio bíblico: contexto y género literario:** https://www.youtube.com/results?search_query=estudio+b%C3%ADblico+contexto+g%C3%A9nero+literario
+- **Filosofía: argumentos y pensamiento crítico:** https://www.youtube.com/results?search_query=filosof%C3%ADa+argumentos+pensamiento+cr%C3%ADtico+espa%C3%B1ol
+- **Falacias y razonamiento:** https://www.youtube.com/results?search_query=falacias+l%C3%B3gicas+argumentaci%C3%B3n+espa%C3%B1ol
+- **Oratoria y estructura del discurso:** https://www.youtube.com/results?search_query=oratoria+estructura+del+discurso+argumentaci%C3%B3n
+- **Discursos históricos con transcripción:** https://www.youtube.com/results?search_query=Martin+Luther+King+I+Have+a+Dream+speech+transcript
+- **Entrevistas para analizar preguntas y respuestas:** https://www.youtube.com/results?search_query=entrevista+larga+transcripci%C3%B3n+espa%C3%B1ol
+- **Ciencia y divulgación:** https://www.youtube.com/results?search_query=divulgaci%C3%B3n+cient%C3%ADfica+conferencia+espa%C3%B1ol
+- **Inteligencia artificial: interpretabilidad y explicabilidad:** https://www.youtube.com/results?search_query=interpretabilidad+explicabilidad+inteligencia+artificial
+- **Clases universitarias de ciencia de datos:** https://www.youtube.com/results?search_query=clase+universitaria+ciencia+de+datos+espa%C3%B1ol
+- **Análisis literario de novelas:** https://www.youtube.com/results?search_query=an%C3%A1lisis+literario+novela+estructura+personajes
+- **Debates con posturas opuestas:** https://www.youtube.com/results?search_query=debate+argumentos+posturas+opuestas+espa%C3%B1ol
+
+### Ficha para cada video
+1. Título exacto, canal, fecha y enlace.
+2. Tipo: fuente primaria, explicación, opinión, entrevista o debate.
+3. Pregunta central y respuesta del expositor.
+4. Estructura en 3–7 ideas.
+5. Evidencias o ejemplos utilizados.
+6. Qué no queda demostrado o qué perspectiva falta.
+7. Resumen de 80–120 palabras.
+8. Comprobación de una afirmación importante con una fuente independiente cuando sea necesario.
+
+### Advertencia sobre videos
+Un video popular no es necesariamente exacto. Para afirmaciones técnicas, históricas, médicas o científicas, verificar datos relevantes con fuentes primarias o instituciones competentes. En teología, distinguir el texto bíblico, la tradición interpretativa y la opinión del expositor.
