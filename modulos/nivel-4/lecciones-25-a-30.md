@@ -1,26 +1,19 @@
-# Nivel 4 — Lecciones 25 a 30: cambiar el formato
+# Nivel 4 — Cambiar el formato
 
-## Lección 25 — Fichas de estudio
-Crear una ficha con concepto, definición, ejemplo, contraejemplo, relaciones y pregunta de recuperación.
-**Práctica:** convertir una lección en cinco preguntas que se puedan contestar sin mirar el apunte.
+Fichas de estudio, resúmenes ejecutivos, explicaciones, reseñas, textos técnicos y exposiciones orales.
 
-## Lección 26 — Resumen ejecutivo
-Un resumen ejecutivo permite decidir: problema, hallazgo principal, implicación, riesgo, recomendación y límite de evidencia.
-**Práctica:** resumir un informe técnico para una persona que debe decidir, no para una persona que debe implementar.
+Este archivo es la portada del nivel. Cada clase tiene su propio archivo para poder estudiar, practicar y registrar el avance por separado.
 
-## Lección 27 — Explicar a una persona principiante
-Usar lenguaje sencillo sin reemplazar precisión por analogías engañosas. Definir términos y comprobar que el ejemplo corresponde.
-**Práctica:** explicar «modelo», «dato», «evidencia» o «interpretabilidad» a alguien sin formación técnica y luego escribir una versión para especialistas.
+## Lecciones
+25. [Lección 25 — Fichas de estudio](leccion-25.md)
+26. [Lección 26 — Resumen ejecutivo](leccion-26.md)
+27. [Lección 27 — Explicar a principiantes](leccion-27.md)
+28. [Lección 28 — Reseñas](leccion-28.md)
+29. [Lección 29 — Resumen técnico](leccion-29.md)
+30. [Lección 30 — Resumen oral de tres minutos](leccion-30.md)
 
-## Lección 28 — Reseñas: contenido frente a valoración
-Una reseña suele combinar descripción y juicio. Resumir la obra no es lo mismo que resumir lo que el reseñista piensa de ella.
-**Práctica:** separar afirmaciones sobre el contenido de la obra, criterios de valoración y razones.
-
-## Lección 29 — Resumen técnico
-Preservar condiciones, versiones, requisitos, advertencias, excepciones y límites. Una simplificación incorrecta puede cambiar cómo se usa una herramienta.
-**Práctica:** resumir una página de documentación técnica en una ficha para un usuario y otra para un operador.
-
-## Lección 30 — Resumen oral de tres minutos
-Estructura sugerida: tema y propósito; dos o tres ideas centrales; evidencia o ejemplo; conclusión y límite.
-**Práctica:** grabar una exposición de tres minutos, transcribirla y evaluar si conserva el mensaje sin repetir demasiado.
-**Evaluación del nivel:** adaptar una misma fuente a una ficha de estudio, una explicación para principiantes y una exposición oral.
+## Cómo trabajar este nivel
+1. Completa las lecciones en orden, salvo que el tutor recomiende refuerzo.
+2. Respeta el tiempo máximo indicado en cada lección.
+3. No marques una habilidad como lograda solo por leer: entrega la actividad y explica una decisión.
+4. Al terminar, registra evidencia y dificultades en ../../PROGRESO.md.
