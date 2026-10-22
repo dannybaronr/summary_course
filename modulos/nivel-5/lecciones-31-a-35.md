@@ -1,31 +1,18 @@
-# Nivel 5 — Lecciones 31 a 35: integrar varias fuentes
+# Nivel 5 — Integrar varias fuentes
 
-## Lección 31 — Comparar fuentes que coinciden
-Crear una tabla de afirmaciones, fuentes, evidencia y matices. Coincidir en una conclusión no significa que las fuentes usen las mismas razones.
-**Práctica:** comparar dos explicaciones del mismo concepto y registrar acuerdos y diferencias.
+Acuerdos, contradicciones, categorías de afirmación, procedencia e incertidumbre.
 
-## Lección 32 — Contradicciones y desacuerdos
-Antes de declarar contradicción, comprobar si las fuentes hablan del mismo período, población, definición y alcance.
-**Práctica:** elegir dos fuentes que discrepen y describir qué afirma cada una sin caricaturizarla.
+Este archivo es la portada del nivel. Cada clase tiene su propio archivo para poder estudiar, practicar y registrar el avance por separado.
 
-## Lección 33 — Hecho, opinión, inferencia y valoración
-- Hecho verificable: puede contrastarse con evidencia.
-- Opinión: postura o juicio.
-- Inferencia: conclusión derivada de premisas.
-- Valoración: evaluación según un criterio.
-Una frase puede combinar categorías.
-**Práctica:** etiquetar afirmaciones de una reseña, una reflexión bíblica y un artículo técnico; justificar casos ambiguos.
+## Lecciones
+31. [Lección 31 — Comparar fuentes](leccion-31.md)
+32. [Lección 32 — Desacuerdos y contradicciones](leccion-32.md)
+33. [Lección 33 — Hecho, opinión, inferencia y valoración](leccion-33.md)
+34. [Lección 34 — Atribución y procedencia](leccion-34.md)
+35. [Lección 35 — Síntesis con incertidumbre](leccion-35.md)
 
-## Lección 34 — Atribución y procedencia
-Indicar quién sostiene cada idea, de qué fuente proviene y qué tan directamente la fuente la respalda.
-**Práctica:** elaborar una síntesis con citas o referencias junto a cada afirmación relevante. No presentar una interpretación de un comentarista como si fuera una cita bíblica literal.
-
-## Lección 35 — Síntesis con incertidumbre y matices
-Una síntesis sólida muestra qué se sabe, qué discrepa, qué depende de definiciones y qué queda sin resolver.
-**Caso:** transparencia, interpretabilidad y explicabilidad en IA.
-1. Leer la frase propuesta: «La Transparencia es el prerrequisito: permite que el sistema sea inspeccionado; la Interpretabilidad provee la lógica técnica; la Explicabilidad es la práctica que hace útil la transparencia».
-2. Tratarla como una hipótesis o marco propuesto, no como verdad universal.
-3. Compararla con NIST AI RMF 1.0, que define explainability e interpretability de una manera específica y considera transparencia una característica relacionada pero distinta.
-4. Redactar una síntesis que identifique semejanzas, diferencias y límites.
-5. Explicar qué parte de la frase inicial es una interpretación propia.
-**Evaluación del nivel:** comparar al menos tres fuentes y distinguir consenso, desacuerdo, evidencia e incertidumbre.
+## Cómo trabajar este nivel
+1. Completa las lecciones en orden, salvo que el tutor recomiende refuerzo.
+2. Respeta el tiempo máximo indicado en cada lección.
+3. No marques una habilidad como lograda solo por leer: entrega la actividad y explica una decisión.
+4. Al terminar, registra evidencia y dificultades en ../../PROGRESO.md.
