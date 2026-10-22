@@ -1,81 +1,58 @@
 # Lección 38 — Verificar afirmaciones contra la fuente
 
-**Nivel:** 6 · **Duración máxima:** 35 minutos · **Estado:** pendiente
+**Nivel:** 6 · **Duración orientativa:** 35–45 minutos · **Estado:** pendiente de evidencia individual
 
-## 1. Objetivos
-Al terminar podrás:
-1. Auditar cada afirmación importante mediante evidencia localizable.
-2. Explicar el criterio con tus propias palabras.
-3. Aplicarlo a una fuente y justificar una decisión.
+## 1. Resultado de aprendizaje
+Podrás revisar una síntesis con criterio explícito y usar la evidencia para decidir si corregir, pedir más información o enseñar a otra persona.
 
-## 2. Meta SMART
-- **Específica:** Auditar cada afirmación importante mediante evidencia localizable.
-- **Medible:** Cada afirmación importante tiene trazabilidad y un estado justificado.
-- **Alcanzable:** una fuente breve, una técnica y una revisión.
-- **Relevante:** prepara las competencias necesarias para sintetizar fuentes variadas sin distorsionarlas.
-- **Temporal:** terminar en un máximo de 35 minutos.
-- **Cierre:** entregar el producto y registrar qué decisión fue más difícil. Si no se logra, marcar «requiere refuerzo» en vez de declarar dominio.
+## 2. Concepto desde cero
+Cada afirmación importante del resumen debe compararse con la parte pertinente de la fuente. Estados útiles: respaldada, parcialmente respaldada, no respaldada o contradicha. No hallar respaldo no demuestra automáticamente que sea falsa.
 
-## 3. Distribución del tiempo
-| Minutos | Trabajo |
-|---:|---|
-| 0–3 | Leer objetivo y definir propósito. |
-| 3–10 | Estudiar explicación y ejemplo. |
-| 10–15 | Responder preguntas. |
-| 15–30 | Hacer la actividad. |
-| 30–35 | Verificar y registrar dificultad. |
+## 3. Ejemplo trabajado
+Resumen: «Los préstamos aumentaron». Fuente: «El número total de préstamos permaneció prácticamente igual». Estado: contradicha.
 
-## 4. Explicación desde cero
-La verificación compara cada afirmación con el lugar de la fuente que podría respaldarla. Estados útiles: respaldada, parcialmente respaldada, no respaldada o contradicha. No encontrar respaldo no prueba falsedad, pero impide presentarla como confirmada.
+**Regla de trabajo:** evalúa afirmaciones concretas y productos observables. No atribuyas una intención, capacidad o error estable a una persona cuando solo disponés de una respuesta aislada.
 
-### Ejemplo resuelto
-Afirmación: «los préstamos aumentaron». Fuente: «permanecieron prácticamente iguales». Estado: contradicha.
+## 4. Práctica guiada
+Tomá un resumen propio y separá sus afirmaciones en una lista. Para cada una, copiá una frase breve de apoyo o indica «sin respaldo localizado». Asigná uno de los cuatro estados y corregí las que lo requieran.
 
-Al razonar, distingue qué dice la fuente, qué conclusión permite y qué interpretación agregas tú. La síntesis no debe hacer más fuerte una afirmación que la evidencia original.
+## 5. Práctica independiente
+Elegí una fuente y un resumen que no hayas usado en esta práctica. Aplicá el procedimiento, registra la evidencia de apoyo y escribe qué harías si no pudieras verificar una afirmación importante. Si enseñás, guardá el primer intento, el feedback y el segundo intento para evaluar el cambio.
 
-## 5. Contenido y fuente de práctica
-- **Contenido central:** verificar afirmaciones contra la fuente.
-- **Fuente sugerida:** Resumen propio y, opcionalmente, borrador de IA; la fluidez no prueba fidelidad.
-- **Producto:** Auditar ocho afirmaciones con ubicación, evidencia, estado y corrección.
-- **Regla de fidelidad:** conservar negaciones, condiciones, excepciones, atribuciones y grado de certeza cuando afecten el sentido.
+## 6. Clave de autocorrección
+Si el texto original dice que los préstamos permanecieron casi iguales, «aumentaron» está contradicho. Si una afirmación no aparece, debe quedar como no respaldada, no automáticamente falsa.
 
-## 6. Preguntas de comprensión
-1. Explica el concepto con tus palabras.
-2. ¿Qué parte del ejemplo respalda tu explicación?
-3. ¿Qué error frecuente cambiaría el sentido de una síntesis sobre este tema?
-4. ¿Qué dato revisarías antes de sacar una conclusión más fuerte?
+La clave ofrece un estándar de razonamiento, no una respuesta textual única. Toda corrección debe poder explicarse con evidencia o con un criterio pedagógico declarado.
 
-## 7. Actividad práctica
-**Consigna:** Auditar ocho afirmaciones con ubicación, evidencia, estado y corrección.
+## 7. Criterios de logro
+- Identifica errores o límites concretos, no solo impresiones generales.
+- Justifica el juicio con la fuente o con evidencia de aprendizaje.
+- No inventa datos ni sobreinterpreta una respuesta aislada.
+- Propone una corrección o siguiente paso verificable.
 
-Pasos:
-1. Define para quién y para qué haces la síntesis.
-2. Marca las partes de la fuente que respaldan tus ideas.
-3. Redacta en tus propias palabras y justifica una decisión de selección.
-4. Compara el resultado con la fuente y corrige añadidos, omisiones o exageraciones.
+**Criterio específico:** Cada afirmación relevante tiene una fuente de apoyo o se marca correctamente como incierta/no respaldada.
 
-## 8. Criterios de evaluación
-Se considera logrado cuando: **Cada afirmación importante tiene trazabilidad y un estado justificado.**
+Si no se cumple, anota qué evidencia falta y qué nueva prueba permitiría resolver la duda. No conviertas «no pude verificar» en «es falso» ni «terminó la actividad» en «aprendió».
 
-Lista de comprobación:
-- ¿Responde al propósito?
-- ¿Las afirmaciones importantes tienen respaldo?
-- ¿Se preservan condiciones, atribución y certeza?
-- ¿Puedo explicar por qué conservé o eliminé cada dato relevante?
+## 8. Errores frecuentes
+- Corregir el estilo sin revisar fidelidad.
+- Confundir ausencia de evidencia con evidencia de ausencia.
+- Diagnosticar una dificultad sin comprobar la hipótesis.
+- Dar feedback general («mejorá») sin un siguiente paso concreto.
 
-## 9. Errores frecuentes
-- Simplificar hasta alterar el sentido.
-- Confundir una interpretación propia con algo que la fuente afirma.
-- Revisar solo la redacción y no la fidelidad del contenido.
+## 9. Preguntas para tutoría
+1. ¿Qué evidencia respalda tu diagnóstico o corrección?
+2. ¿Qué explicación alternativa existe?
+3. ¿Cómo comprobarías si la intervención funcionó?
+4. ¿Qué dejarías pendiente en lugar de adivinar?
 
-## 10. Conclusión
-El dominio no se demuestra memorizando una definición, sino aplicando el criterio a una fuente, justificando una decisión y verificando el resultado.
+## 10. Registro de práctica
+- Fuente/producto revisado:
+- Evidencia observada:
+- Error o habilidad detectada:
+- Feedback o corrección:
+- Resultado del segundo intento:
+- Próximo paso:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
 
-## 11. Registro de tutoría
-- **Mi producto:**
-- **Decisión que justifiqué:**
-- **Dificultad:**
-- **Corrección tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
-
-El tutor debe dar retroalimentación específica, pedir un segundo intento cuando haga falta y actualizar PROGRESO.md solo después de observar evidencia.
+Actualizar PROGRESO.md solo después de observar evidencia real.
