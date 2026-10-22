@@ -1,6 +1,11 @@
 # Plan de estudios completo
 
-Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es una estimación de organización, no una promesa de dominio experto. Se repiten los niveles cuando haga falta.
+## Propósito general
+Aprender a transformar material recibido por lectura, escucha, observación y conversación en síntesis fieles, claras, verificables y útiles para comprender, recordar, razonar, actuar y enseñar. El objetivo final es compartir conocimiento con criterio propio, sin depender de que una herramienta automática haga el trabajo intelectual.
+
+**Duración orientativa:** 16 semanas, 5 sesiones semanales de 30–45 minutos. Es una estimación de organización, no una promesa de dominio experto. Se repiten niveles cuando haga falta.
+
+**Marco operativo:** [De la fuente al conocimiento compartible](marco-operativo.md). Explica el método común, cómo trabajar con artículos, libros, clases de una hora y cursos de varias sesiones, y cómo evaluar aprendizaje sin depender de IA.
 
 ## Nivel 0 — Aprender a comprender (lecciones 1–6)
 **Prácticas y claves:** [Material complementario del nivel 0](material-docente/nivel-0-comprension.md)
@@ -10,7 +15,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 4. Cómo se construye un párrafo.
 5. Idea principal e ideas secundarias.
 6. Ejemplos, explicaciones, detalles y excepciones.
-**Fuentes:** párrafos cotidianos, una parábola breve, un texto informativo.
+**Resultado:** distinguir tema, idea y apoyos antes de reducir.
 
 ## Nivel 1 — Seleccionar y reducir (7–12)
 **Prácticas y claves:** [Material complementario del nivel 1](material-docente/nivel-1-seleccion.md)
@@ -20,7 +25,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 10. Reformular sin copiar ni cambiar el sentido.
 11. Agrupar ideas relacionadas.
 12. Redactar un resumen breve y verificarlo.
-**Fuentes:** noticias, reseñas y resúmenes de libros.
+**Resultado:** producir una síntesis breve y justificar qué se conserva o elimina.
 
 ## Nivel 2 — Construir resúmenes funcionales (13–18)
 **Prácticas y claves:** [Material complementario del nivel 2](material-docente/nivel-2-estructura.md)
@@ -30,7 +35,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 16. Causa, consecuencia y correlación.
 17. Problema, respuesta, resultado y limitaciones.
 18. Resumir un argumento con premisas y conclusión.
-**Fuentes:** conversaciones, argumentos filosóficos y textos explicativos.
+**Resultado:** representar la estructura lógica de la fuente sin inventar relaciones.
 
 ## Nivel 3 — Interpretar la estructura de la fuente (19–24)
 **Prácticas y claves:** [Material complementario del nivel 3](material-docente/nivel-3-fuentes.md)
@@ -40,7 +45,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 22. Conferencias, charlas y oratoria.
 23. Conversaciones, reuniones y entrevistas.
 24. Novelas, relatos y parábolas.
-**Fuentes:** capítulos de libros, una clase grabada, un discurso y un pasaje narrativo bíblico.
+**Resultado:** adaptar el método al género y la escala de la fuente, de un texto breve a una clase o una obra extensa.
 
 ## Nivel 4 — Cambiar de formato sin perder fidelidad (25–30)
 **Prácticas y claves:** [Material complementario del nivel 4](material-docente/nivel-4-formatos.md)
@@ -50,7 +55,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 28. Reseñas: separar contenido y valoración.
 29. Resumen técnico de una fuente especializada.
 30. Resumen oral y exposición de tres minutos.
-**Fuentes:** documentación técnica, reseñas y una charla divulgativa.
+**Resultado:** producir versiones distintas según audiencia y uso, sin alterar el significado.
 
 ## Nivel 5 — Sintetizar varias fuentes (31–35)
 **Prácticas y claves:** [Material complementario del nivel 5](material-docente/nivel-5-multiples-fuentes.md)
@@ -59,7 +64,7 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 33. Separar hecho, opinión, inferencia y valoración.
 34. Atribuir afirmaciones y registrar su procedencia.
 35. Elaborar una síntesis que conserve incertidumbre y matices.
-**Fuentes:** dos traducciones o comentarios bíblicos, dos artículos sobre un tema, documentación técnica y opiniones divergentes.
+**Resultado:** integrar información sin borrar discrepancias ni fingir consenso.
 
 ## Nivel 6 — Juicio experto y verificación (36–39)
 **Prácticas y claves:** [Material complementario del nivel 6](material-docente/nivel-6-verificacion.md)
@@ -67,14 +72,16 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 37. Detectar omisiones críticas y distorsiones.
 38. Verificar afirmaciones contra la fuente.
 39. Evaluar límites, sesgos y calidad de evidencia.
-**Caso integrador:** transparencia, interpretabilidad y explicabilidad en IA. La formulación de una persona o de un documento no se asumirá como definición universal: se contrastará con marcos técnicos como NIST.
+**Caso integrador:** transparencia, interpretabilidad y explicabilidad en IA. Se contrastan las definiciones con el marco y contexto relevantes; no se asume que una formulación sea universal.
+
+**Resultado:** defender cada afirmación importante con evidencia y reconocer qué queda abierto.
 
 ## Nivel 7 — Enseñar a resumir (40–42)
 **Prácticas y claves:** [Material complementario del nivel 7](material-docente/nivel-7-ensenar.md)
 40. Diagnosticar dificultades de un aprendiz.
 41. Hacer preguntas socráticas y dar retroalimentación útil.
 42. Diseñar y enseñar una sesión completa.
-**Proyecto final:** enseñar a otra persona a resumir una fuente desconocida, evaluar su primer intento, guiar una revisión y demostrar qué mejoró.
+**Proyecto final:** sintetizar una fuente no trabajada, verificarla, adaptarla a dos audiencias, aplicarla a un caso nuevo y enseñar una habilidad a otra persona. Se conserva evidencia del primer intento, el feedback y el segundo intento.
 
 ## Distribución semanal sugerida
 - Día 1: explicación y ejemplo.
@@ -86,11 +93,8 @@ Duración orientativa: 16 semanas, 5 sesiones semanales de 30–45 minutos. Es u
 ## Puerta de avance
 Se avanza cuando la persona puede aplicar la habilidad en una fuente nueva, explicar decisiones clave y evitar errores graves de fidelidad. Si no puede, se cambia la explicación o el ejemplo y se vuelve a practicar.
 
-## Material de cada lección
-Cada módulo indica el objetivo, la fuente sugerida, la tarea, los criterios de corrección y la evidencia que se debe registrar. Los enlaces de la biblioteca son puntos de partida, no sustituyen la lectura o escucha de la fuente original.
-
-## Acceso a las clases desarrolladas
-Las 42 lecciones se están organizando en archivos independientes, cada uno con objetivos, meta SMART, tiempo máximo, explicación, ejemplo, preguntas, actividad, criterios de evaluación, conclusión y registro de tutoría. Usa el [índice de módulos y lecciones](modulos/README.md) para abrir cada clase. Las portadas de nivel contienen enlaces a las lecciones de ese tramo.
-
 ## Regla de tiempo y dominio
-El tiempo es un límite de organización, no una razón para fingir comprensión. Si no se alcanza el criterio, se registra «requiere refuerzo» y se practica con una fuente más sencilla. Una habilidad se considera lograda cuando puede aplicarse a una fuente nueva y la persona justifica sus decisiones con evidencia.
+El tiempo es un límite de organización, no una razón para fingir comprensión. Si no se alcanza el criterio, se registra «requiere refuerzo». Una habilidad se considera lograda cuando se aplica a una fuente nueva, se justifican decisiones con evidencia y el desempeño se sostiene en más de una ocasión para competencias centrales.
+
+## Evaluación
+Usar el [sistema de evaluación](evaluaciones/README.md). La evaluación final debe comprobar comprensión, fidelidad, trazabilidad, recuperación activa, transferencia y capacidad de enseñar. La entrega de un texto pulido, por sí sola, no prueba aprendizaje.
