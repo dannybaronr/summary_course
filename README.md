@@ -1,52 +1,39 @@
 # Curso de Síntesis de Información
 **De principiante absoluto a especialista capaz de enseñar a otros.**
 
-Este repositorio es el manual central del curso. Reúne el plan, las lecciones, una biblioteca de fuentes diversas, las evaluaciones y el registro de progreso. Se puede retomar después de cualquier pausa sin depender de recordar dónde quedó la tutoría.
-
-## Objetivo
-Aprender a comprender, seleccionar, organizar, sintetizar y verificar información de cualquier tipo de fuente, y enseñar esas habilidades con criterios explícitos.
+Este repositorio es el manual central del curso. Cada una de las 42 lecciones tiene un archivo independiente para estudiar, practicar y evaluar el dominio sin depender de recordar conversaciones anteriores.
 
 ## Empieza aquí
-1. Lee [Cómo usar el curso](COMO-USAR-EL-CURSO.md).
-2. Consulta el [Plan de estudios](plan-estudios.md).
-3. Mira el estado actual en [PROGRESO.md](PROGRESO.md).
-4. Empieza por la [Lección 1: ¿Qué es resumir?](modulos/nivel-0/leccion-01.md).
-5. Cuando completes una sesión, registra los resultados en [PROGRESO.md](PROGRESO.md).
+1. [Cómo usar el curso](COMO-USAR-EL-CURSO.md)
+2. [Plan de estudios](plan-estudios.md)
+3. [Índice de módulos y lecciones](modulos/README.md)
+4. [Estado y evidencia de aprendizaje](PROGRESO.md)
+5. [Lección 1 — ¿Qué es resumir?](modulos/nivel-0/leccion-01.md)
+6. [Biblioteca de fuentes](biblioteca-de-fuentes.md)
 
-## Qué vas a estudiar
-- Biblia, teología y libros cristianos.
-- Filosofía, pensamiento crítico y argumentación.
-- Discursos, oratoria, entrevistas y conversaciones.
-- Novelas, reseñas, clases, cursos y conferencias.
-- Artículos especializados, investigación, ciencia de datos e IA.
-- Textos cotidianos y fuentes con distintos niveles de dificultad.
+## Qué contiene cada lección
+- Objetivos observables.
+- Meta SMART y tiempo máximo.
+- Explicación desde cero y ejemplo trabajado.
+- Fuentes sugeridas y contenido a practicar.
+- Preguntas de comprensión.
+- Actividad práctica paso a paso.
+- Criterios de evaluación, errores frecuentes y conclusión.
+- Registro de tutoría para anotar producto, dificultad y corrección.
 
-La variedad es deliberada: una misma habilidad debe funcionar con materiales diferentes, no solo con textos parecidos a los ejercicios.
-
-## Método de aprendizaje
-Cada lección combina explicación desde cero, ejemplo resuelto, práctica guiada, ejercicio independiente, retroalimentación y comprobación. Se avanza por dominio demostrado, no solo por calendario.
+## Método
+Comprender un ejemplo → nombrar el concepto → practicar con guía → resolver una tarea → contrastar con la fuente → corregir → volver a intentar → registrar evidencia. El avance depende de demostrar la habilidad en una fuente nueva, no solo de leer una lección.
 
 ## Regla de rigor
-No confundir:
-- lo que una fuente afirma;
-- lo que la evidencia permite concluir;
-- la interpretación del lector;
-- lo que todavía no se sabe.
+Distinguir lo que la fuente afirma, lo que la evidencia permite concluir, la interpretación del lector y lo que todavía no se sabe. No se reproducirán libros protegidos completos: se usarán fuentes legales, referencias y paráfrasis propias.
 
-No se reproducirán libros o materiales protegidos completos. Se enlazarán fuentes legales, se usarán fragmentos breves cuando corresponda y se trabajará con paráfrasis propias.
-
-## Estructura
-- `plan-estudios.md`: ruta completa de 8 niveles y 42 lecciones.
-- `COMO-USAR-EL-CURSO.md`: rutina para estudiar y retomar.
-- `PROGRESO.md`: estado y evidencia de aprendizaje.
-- `modulos/`: lecciones y prácticas.
-- `biblioteca-de-fuentes.md`: materiales seleccionados por tipo y uso.
-- `evaluaciones/rubrica.md`: criterios de evaluación.
-- `plantillas/plantilla-leccion.md`: formato para nuevas lecciones.
+## Estructura del repositorio
+- `plan-estudios.md`: ruta de 8 niveles y 42 lecciones.
+- `modulos/`: portadas de niveles y lecciones independientes.
+- `biblioteca-de-fuentes.md`: materiales diversos para practicar.
+- `PROGRESO.md`: estado del aprendizaje.
+- `evaluaciones/rubrica.md`: criterios comunes.
+- `plantillas/plantilla-leccion.md`: formato para nuevas clases.
 - `glosario.md`: vocabulario del curso.
 
-## Estado actual
-Nivel 0, Lección 1. El diagnóstico todavía está pendiente; aún no se ha demostrado dominio de ninguna competencia.
-
-## Actualización
-Después de una sesión, se actualizará el registro con las respuestas observadas, los aciertos, las dificultades, la corrección y la próxima acción. La conexión a GitHub no implica guardado automático de cada mensaje: el registro debe actualizarse mediante una acción explícita.
+**Importante:** GitHub no registra automáticamente lo que se conversa en ChatGPT. El progreso se actualiza mediante una acción explícita después de revisar tus respuestas. El repositorio es público; no guardes allí información privada sin cambiar su visibilidad.
