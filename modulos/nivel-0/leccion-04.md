@@ -1,83 +1,66 @@
 # Lección 4 — Cómo se construye un párrafo
-**Nivel:** 0 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Explicar cómo se relacionan las oraciones dentro de un párrafo.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 0 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Explicar cómo se relacionan las oraciones dentro de un párrafo.
-- **Medible:** Identificar con justificación la afirmación central y al menos dos funciones de apoyo o contraste.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Reconocer afirmación central, apoyo, ejemplo y límite, explicando la relación entre oraciones.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+Al finalizar, deberías poder demostrar la habilidad con una fuente nueva, no solo repetir la definición.
 
-## 4. Explicación desde cero
-Un párrafo no es necesariamente una sola idea expresada de una única forma. Puede presentar una afirmación, explicar su razón, dar un ejemplo, introducir un contraste y extraer una consecuencia. Las funciones se identifican por la relación, no solo por palabras señalizadoras.
+## 2. Concepto explicado desde cero
+Las oraciones de un párrafo cumplen funciones: presentan una afirmación, la explican, aportan evidencia, ejemplifican, contrastan o limitan. Los conectores ayudan, pero la función depende del significado, no solo de una palabra.
 
-### Ejemplo trabajado
-«Caminar favorece la movilidad. Por ejemplo, permite hacer trayectos cortos sin vehículo. Sin embargo, no siempre es viable con distancias largas». Afirmación, ejemplo y límite.
+## 3. Ejemplo resuelto paso a paso
+«Caminar puede facilitar trayectos cortos. Por ejemplo, permite llegar a comercios cercanos sin usar un vehículo. Sin embargo, no siempre resulta práctico para distancias largas». Funciones: afirmación, ejemplo y limitación.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+**Cómo se resolvió:** primero se identificó qué pregunta debe responder el resumen; después se separaron las afirmaciones explícitas de las inferencias; finalmente se comprobó que la versión breve no agregara ni exagerara información.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** cómo se construye un párrafo.
-- **Fuente de práctica:** Subrayar cada oración con una etiqueta funcional y dibujar flechas que expliquen qué oración apoya o limita a cuál.
-- **Producto esperado:** Un párrafo de una noticia, manual o texto de estudio elegido por el alumno; registrar título y autor.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+## 4. Práctica guiada
+Etiquetá cada oración del ejemplo (afirmación, ejemplo, límite) y dibujá una flecha que muestre qué oración apoya o restringe a cuál. Después, elegí un párrafo de 4–6 oraciones y hacé el mismo análisis.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «cómo se construye un párrafo»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+Antes de escribir, señalá qué parte de la fuente respalda cada afirmación importante. Si una respuesta depende de una suposición, marcala como inferencia en lugar de presentarla como hecho.
 
-## 7. Actividad práctica
-**Consigna:** Un párrafo de una noticia, manual o texto de estudio elegido por el alumno; registrar título y autor.
+## 5. Práctica independiente
+Buscá una fuente breve distinta relacionada con una clase, una noticia, un texto técnico, una conversación o una lectura. Aplicá la habilidad de esta lección y entregá:
+1. La fuente identificada (título, autor o procedencia y fecha si están disponibles).
+2. Tu producto.
+3. Una decisión de selección explicada: «Conservé/eliminé ___ porque ___».
+4. Una duda o límite que no pudiste resolver.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+## 6. Clave de autocorrección
+La segunda oración concreta la primera; la tercera limita el alcance de la primera. No se concluye que caminar sea siempre mejor ni que sea viable para cualquier distancia.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** Identificar con justificación la afirmación central y al menos dos funciones de apoyo o contraste.
+La clave es orientativa, no una única redacción correcta. Se aceptan alternativas fieles, claras y justificadas. Si tu respuesta difiere, comprobá la fuente antes de asumir que está mal.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+## 7. Criterios para considerar lograda la habilidad
+- **Fidelidad:** no inventa datos ni cambia negaciones, causas, condiciones o grado de certeza.
+- **Relevancia:** responde al propósito indicado.
+- **Justificación:** explica al menos una decisión de conservar o eliminar información.
+- **Claridad:** otra persona puede entender el resultado sin consultar cada frase del original.
 
-## 9. Errores frecuentes
-- Una oración puede cumplir más de una función; las etiquetas son herramientas, no categorías infalibles.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+**Criterio específico:** Identifica la función de las tres oraciones y explica una relación sin depender solo de conectores.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder explicar cómo se relacionan las oraciones dentro de un párrafo.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+Si falla un criterio, registrá «requiere refuerzo», identificá el tipo de error y repetí la tarea con una fuente más breve. No declares dominio por haber completado la lectura.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
+## 8. Errores que hay que vigilar
+- Confundir tema con idea principal.
+- Convertir una posibilidad en certeza o una correlación en causa.
+- Eliminar una condición que cambia la conclusión.
+- Copiar palabras sin comprobar que se entendió la idea.
+- Elegir una respuesta porque suena bien, sin verificarla contra la fuente.
+
+## 9. Preguntas de tutoría
+1. ¿Qué frase concreta respalda tu idea principal?
+2. ¿Qué cambiaría si quitaras ese detalle?
+3. ¿Qué afirmaste que la fuente no dice explícitamente?
+4. ¿Qué dato te haría revisar tu conclusión?
+
+## 10. Registro de práctica
+- **Fuente utilizada:** El párrafo de caminar y un párrafo elegido por el estudiante.
+- **Mi respuesta/producto:**
 - **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
+- **Error o duda que detecté:**
+- **Corrección después de contrastar con la fuente:**
 - **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+El tutor debe evaluar el producto y su respaldo, no la seguridad con que se expresa el estudiante. Actualizar PROGRESO.md únicamente después de observar la evidencia.
