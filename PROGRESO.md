@@ -1,44 +1,52 @@
 # Registro de progreso
 
-> Este documento refleja evidencia confirmada, no intenciones ni respuestas supuestas. Actualizar después de cada sesión.
+Este archivo conserva el punto de continuidad del curso. Registrar evidencia real; no asumir que una habilidad está dominada porque se explicó o leyó una lección.
 
 ## Estado actual
 - **Nivel:** 0 — principiante.
 - **Lección actual:** 1 — ¿Qué es resumir?
-- **Estado de la lección:** pendiente de completar el diagnóstico.
-- **Dominio general:** no evaluado.
-- **Última sesión registrada:** 2026-10-22.
-- **Próxima acción:** responder las cuatro preguntas del ejercicio diagnóstico de la Lección 1 en la conversación.
+- **Estado:** diagnóstico pendiente.
+- **Dominio demostrado:** aún no evaluado.
+- **Última organización del curso:** 2026-10-22.
+- **Próxima acción concreta:** responder las cuatro preguntas del diagnóstico al final de la Lección 1.
 
-## Competencias
+## Mapa de competencias
 | Competencia | Estado | Evidencia |
 |---|---|---|
-| Comprender un texto breve | Pendiente de evaluar | Ejercicio diagnóstico |
-| Distinguir tema e idea principal | Pendiente de evaluar | Ejercicio diagnóstico |
-| Seleccionar ideas esenciales | Pendiente de evaluar | Ejercicio diagnóstico |
-| Justificar qué conservar o eliminar | Pendiente de evaluar | Ejercicio diagnóstico |
-| Redactar con palabras propias | Pendiente de evaluar | Próximas prácticas |
-| Verificar fidelidad con la fuente | Pendiente de evaluar | Próximas prácticas |
-| Enseñar a otra persona | No iniciado | Proyecto final |
+| Comprender un texto breve | Pendiente | Diagnóstico de la Lección 1 |
+| Distinguir tema e idea principal | Pendiente | Diagnóstico y lecciones 2–3 |
+| Seleccionar información esencial | Pendiente | Lecciones 7–12 |
+| Reformular con fidelidad | Pendiente | Lecciones 10–12 |
+| Reconstruir relaciones lógicas | Pendiente | Lecciones 13–18 |
+| Resumir fuentes de distintos formatos | Pendiente | Lecciones 19–30 |
+| Sintetizar fuentes múltiples | Pendiente | Lecciones 31–35 |
+| Verificar evidencia y matices | Pendiente | Lecciones 36–39 |
+| Enseñar a otra persona | No iniciado | Lecciones 40–42 |
 
 ## Registro por sesión
-Usar este formato:
+Copia y completa después de cada clase:
 - Fecha:
 - Lección:
+- Fuente usada:
 - Objetivo:
-- Ejercicio realizado:
+- Respuesta o ejercicio:
 - Aciertos observables:
-- Dificultades observables:
-- Retroalimentación clave:
-- Reintento y resultado:
+- Dificultad concreta:
+- Retroalimentación:
+- Reintento:
+- Resultado del reintento:
 - Estado: pendiente / en práctica / dominado.
 - Próxima acción:
 
-## Criterio para marcar “dominado”
-La habilidad se aplica correctamente en un ejercicio nuevo, la persona justifica sus decisiones y no depende de pistas que revelen la respuesta. Para competencias centrales, buscar consistencia en más de un ejemplo.
+## Qué significa cada estado
+- **Pendiente:** aún no se ha practicado o no hay evidencia.
+- **En práctica:** hay comprensión parcial, errores repetidos o necesidad de pistas.
+- **Dominado:** resuelve un ejercicio nuevo, justifica las decisiones y mantiene fidelidad; las competencias centrales deben demostrarse más de una vez.
 
 ## Historial
-### Inicio del proyecto — 2026-10-22
-- Se definió un itinerario de 8 niveles y 42 lecciones.
-- Se estableció un método basado en explicación, práctica guiada, práctica independiente, corrección y evaluación.
-- Aún no hay resultados del diagnóstico; no atribuir competencias antes de observar respuestas.
+### 2026-10-22 — organización del curso
+- Se creó el repositorio y la estructura inicial.
+- Se amplió el plan a 8 niveles y 42 lecciones.
+- Se definió una biblioteca diversa de materiales.
+- Se estableció una regla de avance basada en evidencia.
+- El diagnóstico inicial todavía no tiene respuestas registradas.
