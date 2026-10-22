@@ -1,81 +1,58 @@
 # Lección 39 — Calidad de evidencia, sesgos y límites
 
-**Nivel:** 6 · **Duración máxima:** 35 minutos · **Estado:** pendiente
+**Nivel:** 6 · **Duración orientativa:** 35–45 minutos · **Estado:** pendiente de evidencia individual
 
-## 1. Objetivos
-Al terminar podrás:
-1. Evaluar para qué pregunta sirve una fuente y qué no permite concluir.
-2. Explicar el criterio con tus propias palabras.
-3. Aplicarlo a una fuente y justificar una decisión.
+## 1. Resultado de aprendizaje
+Podrás revisar una síntesis con criterio explícito y usar la evidencia para decidir si corregir, pedir más información o enseñar a otra persona.
 
-## 2. Meta SMART
-- **Específica:** Evaluar para qué pregunta sirve una fuente y qué no permite concluir.
-- **Medible:** La evaluación responde a una pregunta específica y no reduce la fuente a «buena» o «mala».
-- **Alcanzable:** una fuente breve, una técnica y una revisión.
-- **Relevante:** prepara las competencias necesarias para sintetizar fuentes variadas sin distorsionarlas.
-- **Temporal:** terminar en un máximo de 35 minutos.
-- **Cierre:** entregar el producto y registrar qué decisión fue más difícil. Si no se logra, marcar «requiere refuerzo» en vez de declarar dominio.
+## 2. Concepto desde cero
+La calidad de una fuente depende de la pregunta. Revisá pertinencia, autoría, actualidad, método, muestra, transparencia, conflictos de interés y limitaciones. Una fuente oficial puede ser adecuada para conocer una norma y no suficiente para demostrar sus efectos.
 
-## 3. Distribución del tiempo
-| Minutos | Trabajo |
-|---:|---|
-| 0–3 | Leer objetivo y definir propósito. |
-| 3–10 | Estudiar explicación y ejemplo. |
-| 10–15 | Responder preguntas. |
-| 15–30 | Hacer la actividad. |
-| 30–35 | Verificar y registrar dificultad. |
+## 3. Ejemplo trabajado
+Una guía oficial describe lo que recomienda una institución; un estudio empírico puede examinar resultados observados. Sirven para preguntas diferentes y pueden complementarse.
 
-## 4. Explicación desde cero
-La calidad depende de la pregunta. Considera pertinencia, autoridad temática, actualidad, método, muestra, transparencia, conflictos de interés y limitaciones. Una fuente oficial puede ser primaria para conocer una norma, pero insuficiente para medir sus efectos prácticos.
+**Regla de trabajo:** evalúa afirmaciones concretas y productos observables. No atribuyas una intención, capacidad o error estable a una persona cuando solo disponés de una respuesta aislada.
 
-### Ejemplo resuelto
-Una guía oficial informa qué recomienda una institución; un estudio empírico puede examinar resultados. Se complementan, pero no son intercambiables.
+## 4. Práctica guiada
+Compará una página oficial, una noticia y un estudio sobre un mismo tema. Para cada una, indica qué pregunta puede responder bien, qué no demuestra y qué sesgos o límites revisarías. No declares que una fuente es «confiable» en todo sin definir para qué.
 
-Al razonar, distingue qué dice la fuente, qué conclusión permite y qué interpretación agregas tú. La síntesis no debe hacer más fuerte una afirmación que la evidencia original.
+## 5. Práctica independiente
+Elegí una fuente y un resumen que no hayas usado en esta práctica. Aplicá el procedimiento, registra la evidencia de apoyo y escribe qué harías si no pudieras verificar una afirmación importante. Si enseñás, guardá el primer intento, el feedback y el segundo intento para evaluar el cambio.
 
-## 5. Contenido y fuente de práctica
-- **Contenido central:** calidad de evidencia, sesgos y límites.
-- **Fuente sugerida:** Documento oficial y explicación divulgativa sobre el mismo tema.
-- **Producto:** Escribir una evaluación de 200 palabras con fortalezas, límites y preguntas abiertas.
-- **Regla de fidelidad:** conservar negaciones, condiciones, excepciones, atribuciones y grado de certeza cuando afecten el sentido.
+## 6. Clave de autocorrección
+La evaluación debe ser relativa a la pregunta: autoría, método, fecha y evidencia pesan de manera distinta según la afirmación. La popularidad o el tono profesional no garantizan exactitud.
 
-## 6. Preguntas de comprensión
-1. Explica el concepto con tus palabras.
-2. ¿Qué parte del ejemplo respalda tu explicación?
-3. ¿Qué error frecuente cambiaría el sentido de una síntesis sobre este tema?
-4. ¿Qué dato revisarías antes de sacar una conclusión más fuerte?
+La clave ofrece un estándar de razonamiento, no una respuesta textual única. Toda corrección debe poder explicarse con evidencia o con un criterio pedagógico declarado.
 
-## 7. Actividad práctica
-**Consigna:** Escribir una evaluación de 200 palabras con fortalezas, límites y preguntas abiertas.
+## 7. Criterios de logro
+- Identifica errores o límites concretos, no solo impresiones generales.
+- Justifica el juicio con la fuente o con evidencia de aprendizaje.
+- No inventa datos ni sobreinterpreta una respuesta aislada.
+- Propone una corrección o siguiente paso verificable.
 
-Pasos:
-1. Define para quién y para qué haces la síntesis.
-2. Marca las partes de la fuente que respaldan tus ideas.
-3. Redacta en tus propias palabras y justifica una decisión de selección.
-4. Compara el resultado con la fuente y corrige añadidos, omisiones o exageraciones.
+**Criterio específico:** Justifica la calidad según una pregunta concreta y reconoce límites sin descartar fuentes por etiquetas.
 
-## 8. Criterios de evaluación
-Se considera logrado cuando: **La evaluación responde a una pregunta específica y no reduce la fuente a «buena» o «mala».**
+Si no se cumple, anota qué evidencia falta y qué nueva prueba permitiría resolver la duda. No conviertas «no pude verificar» en «es falso» ni «terminó la actividad» en «aprendió».
 
-Lista de comprobación:
-- ¿Responde al propósito?
-- ¿Las afirmaciones importantes tienen respaldo?
-- ¿Se preservan condiciones, atribución y certeza?
-- ¿Puedo explicar por qué conservé o eliminé cada dato relevante?
+## 8. Errores frecuentes
+- Corregir el estilo sin revisar fidelidad.
+- Confundir ausencia de evidencia con evidencia de ausencia.
+- Diagnosticar una dificultad sin comprobar la hipótesis.
+- Dar feedback general («mejorá») sin un siguiente paso concreto.
 
-## 9. Errores frecuentes
-- Simplificar hasta alterar el sentido.
-- Confundir una interpretación propia con algo que la fuente afirma.
-- Revisar solo la redacción y no la fidelidad del contenido.
+## 9. Preguntas para tutoría
+1. ¿Qué evidencia respalda tu diagnóstico o corrección?
+2. ¿Qué explicación alternativa existe?
+3. ¿Cómo comprobarías si la intervención funcionó?
+4. ¿Qué dejarías pendiente en lugar de adivinar?
 
-## 10. Conclusión
-El dominio no se demuestra memorizando una definición, sino aplicando el criterio a una fuente, justificando una decisión y verificando el resultado.
+## 10. Registro de práctica
+- Fuente/producto revisado:
+- Evidencia observada:
+- Error o habilidad detectada:
+- Feedback o corrección:
+- Resultado del segundo intento:
+- Próximo paso:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
 
-## 11. Registro de tutoría
-- **Mi producto:**
-- **Decisión que justifiqué:**
-- **Dificultad:**
-- **Corrección tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
-
-El tutor debe dar retroalimentación específica, pedir un segundo intento cuando haga falta y actualizar PROGRESO.md solo después de observar evidencia.
+Actualizar PROGRESO.md solo después de observar evidencia real.
