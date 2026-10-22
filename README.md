@@ -1,46 +1,52 @@
 # Curso de Síntesis de Información
 **De principiante absoluto a especialista capaz de enseñar a otros.**
 
-## Propósito
-Desarrollar la capacidad de comprender, seleccionar, organizar, sintetizar y verificar información de distintas fuentes, y aprender a enseñar esas habilidades con criterios explícitos.
+Este repositorio es el manual central del curso. Reúne el plan, las lecciones, una biblioteca de fuentes diversas, las evaluaciones y el registro de progreso. Se puede retomar después de cualquier pausa sin depender de recordar dónde quedó la tutoría.
 
-## Resultados esperados
-Al finalizar, la persona podrá:
-- Distinguir tema, idea principal, ideas secundarias, ejemplos y detalles.
-- Justificar qué información conserva o elimina.
-- Resumir con fidelidad sin inventar ni distorsionar.
-- Reconstruir relaciones lógicas: causa-efecto, problema-solución, argumento-evidencia y secuencia narrativa.
-- Adaptar el resumen a su propósito, lector y tipo de fuente.
-- Comparar varias fuentes y señalar acuerdos, contradicciones e incertidumbre.
-- Evaluar resúmenes con una rúbrica y enseñar a otros a mejorarlos.
+## Objetivo
+Aprender a comprender, seleccionar, organizar, sintetizar y verificar información de cualquier tipo de fuente, y enseñar esas habilidades con criterios explícitos.
 
-## Principios de enseñanza
-1. Ir de lo concreto a lo abstracto.
-2. Definir cada término técnico antes de exigir su uso.
-3. Modelar el razonamiento, no solo mostrar respuestas.
-4. Practicar con ayuda decreciente.
-5. Pedir justificación de las decisiones de selección.
-6. Corregir con ejemplos específicos y oportunidades de reintento.
-7. No declarar una habilidad dominada solo por haber leído una explicación.
-8. Separar lo que dice la fuente de la interpretación de quien resume.
+## Empieza aquí
+1. Lee [Cómo usar el curso](COMO-USAR-EL-CURSO.md).
+2. Consulta el [Plan de estudios](plan-estudios.md).
+3. Mira el estado actual en [PROGRESO.md](PROGRESO.md).
+4. Empieza por la [Lección 1: ¿Qué es resumir?](modulos/nivel-0/leccion-01.md).
+5. Cuando completes una sesión, registra los resultados en [PROGRESO.md](PROGRESO.md).
 
-## Ruta de aprendizaje
-Consulta [Plan de estudios](plan-estudios.md), [Progreso](PROGRESO.md), [Rúbrica](evaluaciones/rubrica.md) y la [Lección 1](modulos/nivel-0/leccion-01.md).
+## Qué vas a estudiar
+- Biblia, teología y libros cristianos.
+- Filosofía, pensamiento crítico y argumentación.
+- Discursos, oratoria, entrevistas y conversaciones.
+- Novelas, reseñas, clases, cursos y conferencias.
+- Artículos especializados, investigación, ciencia de datos e IA.
+- Textos cotidianos y fuentes con distintos niveles de dificultad.
 
-## Método de cada lección
-- Objetivo observable.
-- Explicación desde cero.
-- Ejemplo resuelto y contraejemplo.
-- Práctica guiada.
-- Ejercicio independiente.
-- Corrección razonada.
-- Criterio de dominio y siguiente paso.
+La variedad es deliberada: una misma habilidad debe funcionar con materiales diferentes, no solo con textos parecidos a los ejercicios.
 
-## Estado inicial
-- Nivel: 0 — diagnóstico inicial pendiente.
-- Lección actual: 1 — ¿Qué es resumir?
-- Dominio demostrado: aún no evaluado.
-- Próximo paso: responder el ejercicio diagnóstico de la Lección 1 en la tutoría y registrar los resultados en `PROGRESO.md`.
+## Método de aprendizaje
+Cada lección combina explicación desde cero, ejemplo resuelto, práctica guiada, ejercicio independiente, retroalimentación y comprobación. Se avanza por dominio demostrado, no solo por calendario.
 
-## Registro de cambios
-Las lecciones y el progreso se actualizarán a medida que se desarrollen en la tutoría. No se marcará una habilidad como dominada sin evidencia de práctica.
+## Regla de rigor
+No confundir:
+- lo que una fuente afirma;
+- lo que la evidencia permite concluir;
+- la interpretación del lector;
+- lo que todavía no se sabe.
+
+No se reproducirán libros o materiales protegidos completos. Se enlazarán fuentes legales, se usarán fragmentos breves cuando corresponda y se trabajará con paráfrasis propias.
+
+## Estructura
+- `plan-estudios.md`: ruta completa de 8 niveles y 42 lecciones.
+- `COMO-USAR-EL-CURSO.md`: rutina para estudiar y retomar.
+- `PROGRESO.md`: estado y evidencia de aprendizaje.
+- `modulos/`: lecciones y prácticas.
+- `biblioteca-de-fuentes.md`: materiales seleccionados por tipo y uso.
+- `evaluaciones/rubrica.md`: criterios de evaluación.
+- `plantillas/plantilla-leccion.md`: formato para nuevas lecciones.
+- `glosario.md`: vocabulario del curso.
+
+## Estado actual
+Nivel 0, Lección 1. El diagnóstico todavía está pendiente; aún no se ha demostrado dominio de ninguna competencia.
+
+## Actualización
+Después de una sesión, se actualizará el registro con las respuestas observadas, los aciertos, las dificultades, la corrección y la próxima acción. La conexión a GitHub no implica guardado automático de cada mensaje: el registro debe actualizarse mediante una acción explícita.
