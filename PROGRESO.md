@@ -65,3 +65,13 @@ Copia y completa después de cada clase:
 - Se creó `material-docente/README.md` como índice de estos materiales y se enlazó desde el README principal.
 - Se corrigió la discrepancia entre el número de preguntas del diagnóstico y la próxima acción registrada.
 - **Estado honesto:** los materiales están desarrollados en una primera versión ampliada, pero todavía requieren prueba de uso, revisión de enlaces y validación mediante respuestas reales del estudiante. No se registra dominio de ninguna lección.
+
+
+### 2026-10-22 — revisión y corrección de las 42 lecciones
+- Se revisaron y reescribieron los 42 archivos individuales de lección, no solo las guías complementarias.
+- Se sustituyeron consignas genéricas por ejemplos, tareas y claves de autocorrección vinculadas al objetivo de cada lección.
+- Se reforzaron criterios de fidelidad: atribución, límites, incertidumbre, causalidad y condiciones que no deben perderse al resumir.
+- Se añadió una práctica independiente para transferir la habilidad a una fuente distinta y un registro para documentar errores y correcciones.
+- Se amplió el índice para enlazar directamente las 42 lecciones y las ocho guías por nivel.
+- **Límites de esta revisión:** la corrección editorial y didáctica no equivale a una validación externa ni a una prueba con estudiantes. Algunas actividades todavía pueden mejorarse según las respuestas reales; las claves son orientativas, no una única solución.
+- **Estado de aprendizaje:** no cambió. El diagnóstico sigue pendiente y no se marca ninguna competencia como dominada.
