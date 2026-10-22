@@ -1,83 +1,59 @@
 # Lección 9 — Repetición y redundancia
-**Nivel:** 1 · **Duración máxima:** 35 minutos · **Estado inicial:** pendiente
 
-## 1. Objetivos de aprendizaje
-Al terminar, podrás:
-1. Reducir reiteraciones sin borrar énfasis o estructura significativa.
-2. Explicar el concepto con tus propias palabras y reconocer cuándo se aplica.
-3. Aplicar el método a una fuente concreta y justificar tus decisiones.
+**Nivel:** 1 · **Duración orientativa:** 30–40 minutos · **Estado:** pendiente de evidencia individual
 
-## 2. Meta SMART
-- **Específica:** Reducir reiteraciones sin borrar énfasis o estructura significativa.
-- **Medible:** No borrar un recurso que sea objeto del análisis; no repetir en la síntesis de contenido sin propósito.
-- **Alcanzable:** trabajar con una sola fuente breve y usar la guía de esta lección.
-- **Relevante:** esta habilidad alimenta las lecciones posteriores y permite sintetizar fuentes sin deformarlas.
-- **Temporal:** completar el trabajo en 35 minutos como máximo.
-- **Criterio de cierre:** entregar la evidencia de la actividad y anotar qué decisión fue más difícil. Si no se cumple, registrar el obstáculo y repetir con una fuente más sencilla; no fingir dominio.
+## 1. Resultado de aprendizaje
+Al finalizar podrás aplicar este criterio a una fuente nueva, explicar una decisión y revisar tu resultado contra la fuente original.
 
-## 3. Ruta de trabajo y tiempo
-| Minutos | Acción |
-|---:|---|
-| 0–3 | Leer los objetivos y aclarar el propósito. |
-| 3–10 | Estudiar la explicación y el ejemplo. |
-| 10–15 | Responder las preguntas de comprensión. |
-| 15–30 | Realizar la actividad práctica. |
-| 30–35 | Revisar criterios y registrar una dificultad. |
+## 2. Concepto desde cero
+La redundancia repite contenido sin añadir una función útil para el objetivo. La repetición retórica puede aportar énfasis, ritmo o estructura.
 
-## 4. Explicación desde cero
-La redundancia repite información sin aportar una función nueva para el propósito. La repetición retórica puede reforzar un mensaje, organizar un discurso o producir efecto emocional. Un resumen de contenido y un análisis retórico tienen objetivos diferentes.
+## 3. Ejemplo trabajado
+Un discurso puede repetir una consigna para persuadir. Un resumen informativo puede expresarla una vez; un análisis de oratoria debe registrar que se repite y explicar su función.
 
-### Ejemplo trabajado
-Un discurso puede repetir una consigna para movilizar al público. En una síntesis informativa se puede conservar una sola formulación; en un análisis de oratoria debe anotarse la repetición y su efecto.
+**Método:** identifica propósito y lector; localiza afirmaciones y límites; redacta sin exagerar; verifica la fidelidad contra el original.
 
-**Cómo razonar:** identifica qué afirma la fuente; observa la función de cada dato; pregunta qué se perdería al eliminarlo; compara tu conclusión con las palabras y límites de la fuente. No añadas una relación, intención ni resultado que no esté respaldado.
+## 4. Práctica guiada
+Escribí una síntesis informativa de este fragmento: «Debemos actuar hoy. Actuar hoy es importante. No podemos seguir esperando: hoy debemos actuar». Después indicá qué se perdería si analizaras el estilo en vez del contenido.
 
-## 5. Contenido que se busca trabajar
-- **Concepto central:** repetición y redundancia.
-- **Fuente de práctica:** Comparar qué aporta cada repetición: nueva evidencia, énfasis, transición, ritmo o ninguna función relevante.
-- **Producto esperado:** Un discurso breve o fragmento de una charla; registrar la fuente exacta.
-- **Límite de rigor:** diferencia lo explícito en la fuente, la inferencia razonable y la opinión personal. Cuando no se pueda comprobar algo, márcalo como duda.
+Antes de redactar, subrayá qué parte de la fuente respalda cada afirmación importante. Si una conclusión es inferida, etiquetala como tal.
 
-## 6. Preguntas de comprensión
-Respóndelas antes de mirar la actividad. No hace falta usar lenguaje académico si la idea queda clara.
-1. Explica con tus palabras: ¿qué significa «repetición y redundancia»?
-2. ¿Qué parte del ejemplo respalda la explicación? Cita o señala la frase concreta.
-3. ¿Qué error podría cometer alguien al aplicar esta habilidad y por qué cambiaría el sentido?
-4. ¿Qué dato o condición necesitarías revisar antes de sacar una conclusión más fuerte?
+## 5. Práctica independiente
+Elegí una fuente distinta (clase, noticia, lectura, conversación o documento técnico). Entregá la referencia disponible, tu resumen, una decisión de selección justificada y una limitación o duda. No elijas una fuente tan extensa que no puedas comprobarla en esta sesión.
 
-## 7. Actividad práctica
-**Consigna:** Un discurso breve o fragmento de una charla; registrar la fuente exacta.
+## 6. Clave de autocorrección
+La síntesis de contenido puede ser «El orador insta a actuar de inmediato». El análisis retórico debe señalar la repetición de «hoy» y su posible función enfática, sin afirmar que convenció al público si no hay evidencia.
 
-**Procedimiento**
-1. Identifica la pregunta que debe responder tu trabajo.
-2. Trabaja solo con la fuente indicada y marca las frases que respaldan tus ideas.
-3. Produce la respuesta en tus propias palabras; conserva términos técnicos cuando sustituirlos pueda cambiar el sentido.
-4. Compara tu resultado con la fuente y corrige cualquier añadido, omisión o exageración.
-5. Escribe una frase: «Conservé/eliminé/cambié ___ porque ___».
+Esta clave describe los elementos que deben conservarse; no exige una única redacción. Una alternativa es válida si es clara, fiel y respaldada por la fuente.
 
-## 8. Corrección orientativa y criterios de éxito
-**Se considera logrado cuando:** No borrar un recurso que sea objeto del análisis; no repetir en la síntesis de contenido sin propósito.
+## 7. Criterios de logro
+- Fidelidad: no agrega hechos ni cambia condiciones, negaciones o certeza.
+- Pertinencia: responde al propósito indicado.
+- Justificación: explica una decisión de selección.
+- Claridad: se entiende sin volver a leer cada frase original.
 
-**Pistas de autocorrección**
-- ¿La idea central responde al propósito de la tarea?
-- ¿Cada afirmación importante está respaldada por la fuente?
-- ¿Conservé negaciones, condiciones, excepciones, atribuciones y grado de certeza?
-- ¿Puedo explicar por qué conservé un dato y eliminé otro?
-- ¿La forma final es suficientemente clara para el lector previsto?
+**Criterio específico:** Reduce repeticiones innecesarias, pero preserva recursos si son objeto del análisis.
 
-## 9. Errores frecuentes
-- La misma frase puede ser redundante para un objetivo y significativa para otro.
-- Confundir una respuesta fluida con una respuesta verificada.
-- Corregir solo la redacción sin comprobar si la idea es fiel.
+Si falta un criterio, marcá «requiere refuerzo», identificá el error y repetí con una fuente más breve. Completar la lectura no equivale a dominar la habilidad.
 
-## 10. Conclusión de la lección
-La habilidad de esta clase no consiste en memorizar una definición, sino en poder reducir reiteraciones sin borrar énfasis o estructura significativa.. La prueba real es aplicar el criterio a una fuente nueva, explicar una decisión y comprobar el resultado.
+## 8. Errores frecuentes
+- Cambiar el sentido al acortar o parafrasear.
+- Confundir una afirmación de la fuente con una inferencia propia.
+- Borrar una limitación porque ocupa espacio.
+- Elegir lo más llamativo en vez de lo más relevante para el propósito.
 
-## 11. Registro para la tutoría
-- **Mi respuesta o producto:**
-- **Decisión que pude justificar:**
-- **Dificultad principal:**
-- **Corrección que hice tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
+## 9. Preguntas para tutoría
+1. ¿Qué fragmento respalda tu afirmación central?
+2. ¿Qué se perdería al quitar este dato?
+3. ¿Qué afirmación tuya es más fuerte que la fuente?
+4. ¿Qué información podría cambiar tu conclusión?
 
-El tutor debe evaluar la evidencia, no solo la seguridad con que se responde. Si hay un error, hacer una pregunta concreta, explicar el criterio y pedir un segundo intento. Registrar el progreso en `PROGRESO.md` únicamente después de observar la respuesta.
+## 10. Registro de práctica
+- Fuente utilizada:
+- Mi producto:
+- Decisión justificada:
+- Dificultad o error detectado:
+- Corrección tras verificar:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
+
+Actualizar PROGRESO.md únicamente después de observar una respuesta real del estudiante.
