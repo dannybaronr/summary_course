@@ -80,3 +80,9 @@ Se avanza cuando la persona puede aplicar la habilidad en una fuente nueva, expl
 
 ## Material de cada lección
 Cada módulo indica el objetivo, la fuente sugerida, la tarea, los criterios de corrección y la evidencia que se debe registrar. Los enlaces de la biblioteca son puntos de partida, no sustituyen la lectura o escucha de la fuente original.
+
+## Acceso a las clases desarrolladas
+Las 42 lecciones se están organizando en archivos independientes, cada uno con objetivos, meta SMART, tiempo máximo, explicación, ejemplo, preguntas, actividad, criterios de evaluación, conclusión y registro de tutoría. Usa el [índice de módulos y lecciones](modulos/README.md) para abrir cada clase. Las portadas de nivel contienen enlaces a las lecciones de ese tramo.
+
+## Regla de tiempo y dominio
+El tiempo es un límite de organización, no una razón para fingir comprensión. Si no se alcanza el criterio, se registra «requiere refuerzo» y se practica con una fuente más sencilla. Una habilidad se considera lograda cuando puede aplicarse a una fuente nueva y la persona justifica sus decisiones con evidencia.
