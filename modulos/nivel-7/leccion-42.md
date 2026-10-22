@@ -1,81 +1,58 @@
 # Lección 42 — Diseñar y enseñar una sesión completa
 
-**Nivel:** 7 · **Duración máxima:** 20 minutos · **Estado:** pendiente
+**Nivel:** 7 · **Duración orientativa:** 35–45 minutos · **Estado:** pendiente de evidencia individual
 
-## 1. Objetivos
-Al terminar podrás:
-1. Planificar, impartir y evaluar una clase breve que enseñe a resumir una fuente desconocida.
-2. Explicar el criterio con tus propias palabras.
-3. Aplicarlo a una fuente y justificar una decisión.
+## 1. Resultado de aprendizaje
+Podrás revisar una síntesis con criterio explícito y usar la evidencia para decidir si corregir, pedir más información o enseñar a otra persona.
 
-## 2. Meta SMART
-- **Específica:** Planificar, impartir y evaluar una clase breve que enseñe a resumir una fuente desconocida.
-- **Medible:** El aprendiz mejora en una habilidad definida y explica la razón de al menos una corrección.
-- **Alcanzable:** una fuente breve, una técnica y una revisión.
-- **Relevante:** prepara las competencias necesarias para sintetizar fuentes variadas sin distorsionarlas.
-- **Temporal:** terminar en un máximo de 20 minutos.
-- **Cierre:** entregar el producto y registrar qué decisión fue más difícil. Si no se logra, marcar «requiere refuerzo» en vez de declarar dominio.
+## 2. Concepto desde cero
+Una clase breve conecta objetivo observable, explicación, ejemplo resuelto, práctica guiada, práctica independiente, evaluación y feedback. Se comprueba el aprendizaje con una tarea nueva, no solo repitiendo el ejemplo.
 
-## 3. Distribución del tiempo
-| Minutos | Trabajo |
-|---:|---|
-| 0–3 | Leer objetivo y definir propósito. |
-| 3–10 | Estudiar explicación y ejemplo. |
-| 10–15 | Responder preguntas. |
-| 15–15 | Hacer la actividad. |
-| 15–20 | Verificar y registrar dificultad. |
+## 3. Ejemplo trabajado
+Microclase de 20 minutos: 2 min objetivo, 4 explicación, 4 ejemplo, 5 práctica guiada, 3 segundo intento y feedback, 2 cierre. Ajustá el tiempo si la evidencia muestra que hace falta más práctica.
 
-## 4. Explicación desde cero
-Una sesión conecta objetivo observable, explicación, ejemplo resuelto, práctica guiada, práctica independiente, evaluación y feedback. Se comprueba el aprendizaje con una tarea nueva, no solo repitiendo el ejemplo.
+**Regla de trabajo:** evalúa afirmaciones concretas y productos observables. No atribuyas una intención, capacidad o error estable a una persona cuando solo disponés de una respuesta aislada.
 
-### Ejemplo resuelto
-En 20 minutos: 2 min objetivo; 4 min explicación; 5 min práctica guiada; 5 min ejercicio individual; 3 min feedback y reintento; 1 min cierre.
+## 4. Práctica guiada
+Diseñá una microclase de 20–30 minutos para enseñar a resumir una fuente desconocida. Incluí objetivo observable, ejemplo, práctica guiada, ejercicio independiente, criterios de evaluación y una pregunta de transferencia. Guardá el primer intento del aprendiz, tu feedback y su segundo intento.
 
-Al razonar, distingue qué dice la fuente, qué conclusión permite y qué interpretación agregas tú. La síntesis no debe hacer más fuerte una afirmación que la evidencia original.
+## 5. Práctica independiente
+Elegí una fuente y un resumen que no hayas usado en esta práctica. Aplicá el procedimiento, registra la evidencia de apoyo y escribe qué harías si no pudieras verificar una afirmación importante. Si enseñás, guardá el primer intento, el feedback y el segundo intento para evaluar el cambio.
 
-## 5. Contenido y fuente de práctica
-- **Contenido central:** diseñar y enseñar una sesión completa.
-- **Fuente sugerida:** Fuente breve desconocida para el aprendiz: texto informativo, relato, charla o texto técnico.
-- **Producto:** Impartir microclase de 20 minutos y guardar primer intento, feedback, segundo intento y reflexión docente.
-- **Regla de fidelidad:** conservar negaciones, condiciones, excepciones, atribuciones y grado de certeza cuando afecten el sentido.
+## 6. Clave de autocorrección
+Una sesión completa debe mostrar qué se enseña, cómo se practica y cómo se comprueba. Si el segundo intento no mejora, registra qué obstáculo persiste y qué cambiarías; no declares éxito por haber terminado el horario.
 
-## 6. Preguntas de comprensión
-1. Explica el concepto con tus palabras.
-2. ¿Qué parte del ejemplo respalda tu explicación?
-3. ¿Qué error frecuente cambiaría el sentido de una síntesis sobre este tema?
-4. ¿Qué dato revisarías antes de sacar una conclusión más fuerte?
+La clave ofrece un estándar de razonamiento, no una respuesta textual única. Toda corrección debe poder explicarse con evidencia o con un criterio pedagógico declarado.
 
-## 7. Actividad práctica
-**Consigna:** Impartir microclase de 20 minutos y guardar primer intento, feedback, segundo intento y reflexión docente.
+## 7. Criterios de logro
+- Identifica errores o límites concretos, no solo impresiones generales.
+- Justifica el juicio con la fuente o con evidencia de aprendizaje.
+- No inventa datos ni sobreinterpreta una respuesta aislada.
+- Propone una corrección o siguiente paso verificable.
 
-Pasos:
-1. Define para quién y para qué haces la síntesis.
-2. Marca las partes de la fuente que respaldan tus ideas.
-3. Redacta en tus propias palabras y justifica una decisión de selección.
-4. Compara el resultado con la fuente y corrige añadidos, omisiones o exageraciones.
+**Criterio específico:** La clase produce evidencia de aprendizaje, feedback específico y un próximo paso basado en resultados.
 
-## 8. Criterios de evaluación
-Se considera logrado cuando: **El aprendiz mejora en una habilidad definida y explica la razón de al menos una corrección.**
+Si no se cumple, anota qué evidencia falta y qué nueva prueba permitiría resolver la duda. No conviertas «no pude verificar» en «es falso» ni «terminó la actividad» en «aprendió».
 
-Lista de comprobación:
-- ¿Responde al propósito?
-- ¿Las afirmaciones importantes tienen respaldo?
-- ¿Se preservan condiciones, atribución y certeza?
-- ¿Puedo explicar por qué conservé o eliminé cada dato relevante?
+## 8. Errores frecuentes
+- Corregir el estilo sin revisar fidelidad.
+- Confundir ausencia de evidencia con evidencia de ausencia.
+- Diagnosticar una dificultad sin comprobar la hipótesis.
+- Dar feedback general («mejorá») sin un siguiente paso concreto.
 
-## 9. Errores frecuentes
-- Simplificar hasta alterar el sentido.
-- Confundir una interpretación propia con algo que la fuente afirma.
-- Revisar solo la redacción y no la fidelidad del contenido.
+## 9. Preguntas para tutoría
+1. ¿Qué evidencia respalda tu diagnóstico o corrección?
+2. ¿Qué explicación alternativa existe?
+3. ¿Cómo comprobarías si la intervención funcionó?
+4. ¿Qué dejarías pendiente en lugar de adivinar?
 
-## 10. Conclusión
-El dominio no se demuestra memorizando una definición, sino aplicando el criterio a una fuente, justificando una decisión y verificando el resultado.
+## 10. Registro de práctica
+- Fuente/producto revisado:
+- Evidencia observada:
+- Error o habilidad detectada:
+- Feedback o corrección:
+- Resultado del segundo intento:
+- Próximo paso:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
 
-## 11. Registro de tutoría
-- **Mi producto:**
-- **Decisión que justifiqué:**
-- **Dificultad:**
-- **Corrección tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
-
-El tutor debe dar retroalimentación específica, pedir un segundo intento cuando haga falta y actualizar PROGRESO.md solo después de observar evidencia.
+Actualizar PROGRESO.md solo después de observar evidencia real.
