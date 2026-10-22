@@ -1,18 +1,17 @@
-# Nivel 6 — Lecciones 36 a 39: criterio experto
+# Nivel 6 — Verificar con criterio experto
 
-## Lección 36 — Adaptar según propósito y riesgo
-Cuanto más importante sea la decisión basada en el resumen, más necesario es conservar condiciones, incertidumbre, procedencia y límites.
-**Práctica:** adaptar una fuente para público general, un especialista y una persona que toma decisiones. Explicar qué cambia y qué no puede omitirse.
+Adaptación por riesgo, omisiones críticas, verificación y evaluación de evidencia.
 
-## Lección 37 — Detectar omisiones críticas y distorsiones
-Errores graves: cambiar negación, exagerar certeza, confundir correlación y causa, borrar una excepción, convertir una propuesta en un acuerdo o atribuir una opinión al autor equivocado.
-**Práctica:** auditar resúmenes defectuosos e identificar el daño potencial de cada error.
+Este archivo es la portada del nivel. Cada clase tiene su propio archivo para poder estudiar, practicar y registrar el avance por separado.
 
-## Lección 38 — Verificar afirmaciones contra la fuente
-Crear una tabla: afirmación del resumen / ubicación en la fuente / apoyo exacto / estado (respaldada, parcial, no respaldada, contradicha).
-**Práctica:** auditar un resumen propio y otro producido por una herramienta de IA. La fluidez no prueba la fidelidad.
+## Lecciones
+36. [Lección 36 — Adaptar según lector y riesgo](leccion-36.md)
+37. [Lección 37 — Detectar omisiones y distorsiones](leccion-37.md)
+38. [Lección 38 — Verificar afirmaciones](leccion-38.md)
+39. [Lección 39 — Calidad de evidencia y límites](leccion-39.md)
 
-## Lección 39 — Calidad de evidencia, sesgos y límites
-Evaluar autoridad pertinente, actualidad, método, conflictos de interés, representatividad y límites. Una fuente oficial puede ser primaria para una política, pero no necesariamente suficiente para evaluar sus efectos.
-**Práctica:** evaluar un documento técnico oficial y una explicación divulgativa; describir para qué pregunta sirve mejor cada uno.
-**Evaluación del nivel:** entregar una síntesis auditada con fuentes, límites y grado de certeza justificado.
+## Cómo trabajar este nivel
+1. Completa las lecciones en orden, salvo que el tutor recomiende refuerzo.
+2. Respeta el tiempo máximo indicado en cada lección.
+3. No marques una habilidad como lograda solo por leer: entrega la actividad y explica una decisión.
+4. Al terminar, registra evidencia y dificultades en ../../PROGRESO.md.
