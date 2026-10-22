@@ -1,81 +1,57 @@
 # Lección 30 — Resumen oral de tres minutos
 
-**Nivel:** 4 · **Duración máxima:** 35 minutos · **Estado:** pendiente
+**Nivel:** 4 · **Duración orientativa:** 30–45 minutos · **Estado:** pendiente de evidencia individual
 
-## 1. Objetivos
-Al terminar podrás:
-1. Exponer una síntesis clara y fiel dentro de un límite temporal.
-2. Explicar el criterio con tus propias palabras.
-3. Aplicarlo a una fuente y justificar una decisión.
+## 1. Resultado de aprendizaje
+Podrás producir una síntesis en el formato indicado, adaptada al lector y propósito sin distorsionar la fuente.
 
-## 2. Meta SMART
-- **Específica:** Exponer una síntesis clara y fiel dentro de un límite temporal.
-- **Medible:** La audiencia puede repetir el mensaje central y la exposición dura tres minutos o menos.
-- **Alcanzable:** una fuente breve, una técnica y una revisión.
-- **Relevante:** prepara las competencias necesarias para sintetizar fuentes variadas sin distorsionarlas.
-- **Temporal:** terminar en un máximo de 35 minutos.
-- **Cierre:** entregar el producto y registrar qué decisión fue más difícil. Si no se logra, marcar «requiere refuerzo» en vez de declarar dominio.
+## 2. Concepto desde cero
+Una exposición oral breve necesita una ruta audible: pregunta o propósito, dos o tres ideas centrales, evidencia o ejemplo y conclusión con límites. No es leer rápido un texto largo.
 
-## 3. Distribución del tiempo
-| Minutos | Trabajo |
-|---:|---|
-| 0–3 | Leer objetivo y definir propósito. |
-| 3–10 | Estudiar explicación y ejemplo. |
-| 10–15 | Responder preguntas. |
-| 15–30 | Hacer la actividad. |
-| 30–35 | Verificar y registrar dificultad. |
+## 3. Ejemplo trabajado
+Inicio: «La pregunta es…». Desarrollo: «Hay tres puntos…». Cierre: «Esto permite concluir…, pero no…». La última frase evita exagerar la evidencia.
 
-## 4. Explicación desde cero
-La exposición oral necesita una ruta sencilla: propósito, dos o tres ideas centrales, evidencia o ejemplo y conclusión. No consiste en leer rápido un texto largo. El ensayo con cronómetro revela repeticiones y saltos lógicos.
+**Principio de diseño:** primero se decide qué necesita hacer o comprender el lector; después se elige la estructura y el nivel de detalle. La forma no justifica omitir límites que cambiarían el sentido.
 
-### Ejemplo resuelto
-Inicio: «La pregunta es…». Desarrollo: «Hay tres puntos…». Cierre: «Esto permite concluir…, pero no…».
+## 4. Práctica guiada
+Prepará un guion de 3 minutos sobre una fuente que conozcas. Marcá inicio, tres ideas centrales, ejemplo, conclusión y límite. Ensayá con cronómetro y recortá repeticiones, no condiciones importantes.
 
-Al razonar, distingue qué dice la fuente, qué conclusión permite y qué interpretación agregas tú. La síntesis no debe hacer más fuerte una afirmación que la evidencia original.
+## 5. Práctica independiente
+Aplicá el mismo formato a otra fuente. Conservá la referencia y revisá el producto con estas preguntas: ¿sirve al lector?, ¿qué evidencia sostiene cada afirmación?, ¿qué condición importante podría perderse?, ¿qué debería quedar como incertidumbre?
 
-## 5. Contenido y fuente de práctica
-- **Contenido central:** resumen oral de tres minutos.
-- **Fuente sugerida:** Una fuente resumida en una lección anterior.
-- **Producto:** Grabar una exposición de máximo tres minutos, transcribirla y marcar repeticiones, omisiones y afirmaciones sin apoyo.
-- **Regla de fidelidad:** conservar negaciones, condiciones, excepciones, atribuciones y grado de certeza cuando afecten el sentido.
+## 6. Clave de autocorrección
+La exposición debe mantener el núcleo y un límite importante; si supera el tiempo, elimina detalles secundarios antes que evidencia necesaria.
 
-## 6. Preguntas de comprensión
-1. Explica el concepto con tus palabras.
-2. ¿Qué parte del ejemplo respalda tu explicación?
-3. ¿Qué error frecuente cambiaría el sentido de una síntesis sobre este tema?
-4. ¿Qué dato revisarías antes de sacar una conclusión más fuerte?
+La clave no prescribe una única respuesta. Evalúa si el producto cumple su función, es fiel y explica los límites relevantes.
 
-## 7. Actividad práctica
-**Consigna:** Grabar una exposición de máximo tres minutos, transcribirla y marcar repeticiones, omisiones y afirmaciones sin apoyo.
+## 7. Criterios de logro
+- Adecuación al lector y al formato.
+- Fidelidad al contenido y a la certeza de la fuente.
+- Selección justificada de los datos necesarios.
+- Claridad y facilidad de uso.
 
-Pasos:
-1. Define para quién y para qué haces la síntesis.
-2. Marca las partes de la fuente que respaldan tus ideas.
-3. Redacta en tus propias palabras y justifica una decisión de selección.
-4. Compara el resultado con la fuente y corrige añadidos, omisiones o exageraciones.
+**Criterio específico:** La presentación se entiende al escucharla una vez y no transforma la fuente en una conclusión más fuerte.
 
-## 8. Criterios de evaluación
-Se considera logrado cuando: **La audiencia puede repetir el mensaje central y la exposición dura tres minutos o menos.**
+Si el producto no cumple estos criterios, identificá qué falla (formato, fidelidad, audiencia o evidencia), corregilo y probá de nuevo. No se considera logrado solo por respetar la extensión.
 
-Lista de comprobación:
-- ¿Responde al propósito?
-- ¿Las afirmaciones importantes tienen respaldo?
-- ¿Se preservan condiciones, atribución y certeza?
-- ¿Puedo explicar por qué conservé o eliminé cada dato relevante?
+## 8. Errores frecuentes
+- Simplificar tanto que se pierde una condición esencial.
+- Confundir opinión con hecho.
+- Usar un formato correcto que no responde al lector real.
+- Presentar una recomendación como certeza cuando faltan datos.
 
-## 9. Errores frecuentes
-- Simplificar hasta alterar el sentido.
-- Confundir una interpretación propia con algo que la fuente afirma.
-- Revisar solo la redacción y no la fidelidad del contenido.
+## 9. Preguntas para tutoría
+1. ¿Qué debe poder hacer el lector después de leer/escuchar esto?
+2. ¿Qué información sería peligrosa o engañosa de omitir?
+3. ¿Qué afirmación necesita una atribución o una reserva?
+4. ¿Qué cambiarías para otra audiencia sin alterar los hechos?
 
-## 10. Conclusión
-El dominio no se demuestra memorizando una definición, sino aplicando el criterio a una fuente, justificando una decisión y verificando el resultado.
+## 10. Registro de práctica
+- Fuente y referencia:
+- Formato y audiencia:
+- Producto:
+- Decisión de diseño justificada:
+- Revisión realizada:
+- Estado: pendiente / en práctica / logrado / requiere refuerzo.
 
-## 11. Registro de tutoría
-- **Mi producto:**
-- **Decisión que justifiqué:**
-- **Dificultad:**
-- **Corrección tras revisar la fuente:**
-- **Estado:** pendiente / en práctica / logrado / requiere refuerzo.
-
-El tutor debe dar retroalimentación específica, pedir un segundo intento cuando haga falta y actualizar PROGRESO.md solo después de observar evidencia.
+Actualizar PROGRESO.md únicamente después de revisar el producto real.
